@@ -1,6 +1,6 @@
 # freedns-domain-scraper
 
-Scrapes every domain in the [FreeDNS shared domain registry](https://freedns.afraid.org/domain/registry/) once a day with GitHub Actions.
+Scrapes every domain in the [FreeDNS shared domain registry](https://freedns.afraid.org/domain/registry/) every 6 hours with GitHub Actions.
 
 ## Files
 
@@ -14,7 +14,7 @@ These appear after the first workflow run.
 
 ## Schedule
 
-[`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) runs once a day at 07:17 UTC and commits the files when something changed. To run it now: **Actions > Scrape FreeDNS registry > Run workflow**.
+[`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) runs every 6 hours and commits the files when something changed. To run it now: **Actions > Scrape FreeDNS registry > Run workflow**.
 
 ## Safety checks
 
