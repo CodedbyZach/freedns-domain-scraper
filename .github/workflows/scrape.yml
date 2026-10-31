@@ -1,0 +1,56 @@
+name: Scrape FreeDNS registry
+
+on:
+  schedule:
+    - cron: "17 7 * * *" # once a day, 07:17 UTC
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Save even if the safety checks fail (use when a big drop is real)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-registry
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape registry
+        id: scrape
+        env:
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: python scraper.py $FORCE
+
+      - name: Commit and push
+        env:
+          MESSAGE: ${{ steps.scrape.outputs.message }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add domains.txt domains.csv changes.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "$MESSAGE"
+          git pull --rebase
+          git push
