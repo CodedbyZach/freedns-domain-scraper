@@ -52,7 +52,7 @@ domain,status,hosts,domain_id,owner,owner_id,created
 124488.xyz,private,10,1419904,metal450,2015112,2024-02-14
 124489.xyz,private,9,1446649,metal450,2015112,2025-01-24
 127broadband.net,private,16,1375341,127solutions,3500447,2022-05-12
-1337.cx,public,5211,58114,darthflo,118473,2005-05-12
+1337.cx,public,5212,58114,darthflo,118473,2005-05-12
 1337.moe,private,64,1061135,elescroto,2118196,2015-02-05
 13h.tw,private,81,289899,blesserx,448508,2008-12-25
 1419.ro,private,36,1150429,demetersandor,2602958,2016-03-31
@@ -60,7 +60,7 @@ domain,status,hosts,domain_id,owner,owner_id,created
 14khawaii.com,private,42,198448,kingkaeru,329163,2007-09-14
 152824.xyz,private,20,1449455,qqdwtypm,2526132,2025-03-04
 16mm.ro,private,16,854287,scenic2,346233,2012-12-21
-1776arms.com,public,140,1288454,sjnovick,1128293,2019-07-10
+1776arms.com,public,141,1288454,sjnovick,1128293,2019-07-10
 18yytermination.com,public,28,1400023,briceperdue,992748,2023-05-23
 1904281.xyz,private,13,1434912,gbs0,4223255,2024-08-01
 193edgemontscouts.ca,private,41,116563,193edgemontscout,660543,2006-04-19
@@ -97,7 +97,7 @@ domain,status,hosts,domain_id,owner,owner_id,created
 21stcenturythought.com,private,18,760503,pfrench42,350088,2012-01-31
 226vitech.com,public,212,825069,mikailovm,290154,2012-09-06
 237775.xyz,public,79,1439848,rbijos,2019558,2024-10-15
-24-7.ro,public,2304,237096,mhi,368996,2008-04-04
+24-7.ro,public,2305,237096,mhi,368996,2008-04-04
 24callout.co.uk,private,12,1441517,neoatmatrix,1166425,2024-11-09
 24hosting.ro,private,41,1214560,lmarius,406959,2017-06-25
 24x7.hk,public,589,941033,khleung,1578031,2013-11-18
@@ -252,7 +252,7 @@ domain,status,hosts,domain_id,owner,owner_id,created
 86136.net,private,53,962816,alecliu,1661064,2014-02-09
 870417.xyz,public,51,1399652,raidenfan,2700702,2023-05-18
 87rb.com,private,44,903055,tashtego,900128,2013-06-13
-8bit.ca,public,1171,1244966,nezgar,2852719,2018-04-02
+8bit.ca,public,1168,1244966,nezgar,2852719,2018-04-02
 8ones.com,private,18,1261749,easilyodd,788120,2018-09-20
 8thlayertech.com,private,36,808018,jdavos,1106249,2012-07-05
 8tom.de,private,39,1387784,mr8tom,3352215,2022-12-06
@@ -659,7 +659,7 @@ ahr.com.np,private,25,1356383,ahrannapurna,3591319,2021-09-01
 ai-nation.co.uk,private,15,1466902,aear,4204268,2025-12-05
 ai1490.com,private,33,1428453,12823487,633079,2024-05-07
 ai4biz.ro,private,9,1429971,imuntean,3522068,2024-05-27
-ai4device.co.kr,private,11,1431594,boeunnam,3960115,2024-06-17
+ai4device.co.kr,private,12,1431594,boeunnam,3960115,2024-06-17
 ai4ph.ca,private,38,1304486,phiremchi,2226018,2020-01-15
 ai4ph.com,private,10,1308024,phiremchi,2226018,2020-02-25
 ai4ph.org,private,15,1308025,phiremchi,2226018,2020-02-25
@@ -682,7 +682,7 @@ ailabs.ar,private,17,1401105,ivfloyd,3217020,2023-06-08
 aileph.de,private,12,1418535,hamars,1951343,2024-01-29
 aimaroyasociados.com.ar,private,15,685593,gartux,753264,2011-06-26
 aimless-adventure.com,private,52,154108,viflux,73202,2006-12-16
-aintno.info,public,653,22506,dons,77509,2004-06-23
+aintno.info,public,652,22506,dons,77509,2004-06-23
 aioseo.ru,private,22,1357893,almazm,619718,2021-09-20
 aiplay.ru,public,88,1416733,aegis86,802487,2024-01-07
 air-compressor.tw,private,24,1097461,tonyhuan,490747,2015-07-06
@@ -1269,7 +1269,7 @@ apps.dj,public,558,868391,jorisfouet,1285776,2013-02-11
 appx.ro,public,177,1178256,hheidel,787456,2016-10-04
 appzar.com.ar,private,26,1262827,daniazar,3101567,2018-10-02
 aprilbarnes.com,private,31,46904,gsbarn,67101,2005-02-07
-aproposmarine.com,private,16,1319404,pvint,5700,2020-06-09
+aproposmarine.com,private,17,1319404,pvint,5700,2020-06-09
 apsago.com,public,115,1372071,penguinlvt,3665440,2022-03-16
 apscreativas.mx,private,53,1167782,megaxoid,2031993,2016-07-20
 apsiscom.com,private,80,1245771,Apsiscom,3355643,2018-04-10
@@ -1476,7 +1476,7 @@ ashwarp.co.uk,private,36,20058,ashwarp,69880,2004-05-09
 ashwarp.com,private,38,31364,ashwarp,69880,2004-10-04
 ashwin.com.np,private,37,1160082,astprock,2272332,2016-05-27
 ashwindollar.com,public,153,1215980,ashwinkn,2904905,2017-07-10
-ashwinidad.com,public,153,1215983,ashwinkn,2904905,2017-07-10
+ashwinidad.com,public,154,1215983,ashwinkn,2904905,2017-07-10
 asiabusinesscentres.com,private,53,303951,weirlawit,932139,2009-02-27
 asiaherewe.com,public,238,838289,guusschellekens,1205040,2012-10-23
 asiahockey.com,private,44,303466,weirlawit,932139,2009-02-25
@@ -1659,7 +1659,7 @@ austencreative.com,private,41,1196085,kenthinson,1675545,2017-02-01
 austinaccess.com,private,24,168730,tesla,266745,2007-03-20
 austral3dstudio.cl,public,54,1432675,goncafa,629765,2024-07-01
 australiancrocodileproducts.com,private,45,180480,tdesmaele,302945,2007-05-29
-australiancrocodileproducts.com.au,private,38,180479,tdesmaele,302945,2007-05-29
+australiancrocodileproducts.com.au,private,39,180479,tdesmaele,302945,2007-05-29
 australiandesignreview.com.au,private,47,273237,hyynes,168214,2008-10-01
 australianhuntermag.com,public,279,962038,ssaaau,343008,2014-02-06
 australianhuntermag.com.au,public,126,941001,ssaaau,343008,2013-11-17
@@ -1827,14 +1827,14 @@ b0tt0m.xyz,private,34,1390231,truffle0,3751870,2023-01-09
 b1ghomer.com,private,40,904089,nickmbrown3399,1395510,2013-06-17
 b2borg.ru,private,48,348214,dns4mike,522573,2009-09-30
 b2go.ru,private,52,293595,myetdns,442765,2009-01-15
-b33r.us,public,624,163636,kaimay,611343,2007-02-13
+b33r.us,public,625,163636,kaimay,611343,2007-02-13
 b4contact.com,private,44,1375233,b4contact,2295886,2022-05-10
 b4ka.com.ar,private,33,388396,b4ka,568792,2010-03-18
 b4s3.de,private,29,760973,dreamdancer,110411,2012-02-02
 b73.ch,private,8,1414388,coderb,1553573,2023-12-07
 ba-investments.net,private,8,1444031,sinergial,1318330,2024-12-17
 baafz.com,private,8,1420480,jona1492,343900,2024-02-21
-baanex.com,private,37,1326532,julielo,3445587,2020-08-25
+baanex.com,private,38,1326532,julielo,3445587,2020-08-25
 baas.org.np,public,108,1236981,uraj,2677023,2018-01-18
 babakfarahani.com,public,205,782531,babakfarahani,1020354,2012-04-10
 babara.ru,private,48,286098,t3sting,342176,2008-12-05
@@ -1997,7 +1997,7 @@ bartus.net,private,22,1302924,wjbartus,3342179,2019-12-26
 bartvanbeurden.be,private,41,1044848,eleandor,2034449,2014-12-08
 basantajoshi.com.np,public,127,985306,bajib,1760026,2014-04-30
 basantapaudel.com.np,public,79,1286140,bedbyas,3061956,2019-06-14
-baselinux.net,public,1796,76591,franmiro,156707,2005-10-05
+baselinux.net,public,1797,76591,franmiro,156707,2005-10-05
 bashrc.net,private,18,1472755,bashrc2k,2215192,2026-03-23
 bashundharafoundation.org.np,public,135,1380562,karkibkas,3331545,2022-08-19
 basicnetwork.ro,private,111,168670,apaneagra,287091,2007-03-20
@@ -2026,7 +2026,7 @@ bauersachs.net,private,14,122817,bauersachs,115103,2006-05-29
 bauersachs.org,private,12,122818,bauersachs,115103,2006-05-29
 baumgardner.us,public,238,1431134,baumgaft,4185187,2024-06-11
 baumi.eu,private,54,1328891,mb555444,3068131,2020-09-21
-bauretic.com,private,37,1385779,marselmustafin77,3596317,2022-11-07
+bauretic.com,private,28,1385779,marselmustafin77,3596317,2022-11-07
 baus.ec,private,35,806709,edgarbaus,1101720,2012-07-01
 bautopia.cl,private,27,1207144,isaav,795291,2017-04-25
 bawuk.net,private,24,137874,herkules,178976,2006-09-08
@@ -2119,8 +2119,8 @@ bellou.net,private,42,142817,flooble,249205,2006-10-10
 belltool.net,private,24,1265957,belltool,3114048,2018-11-05
 belluzz.net,private,17,1043468,belluzz,1725308,2014-12-02
 bellyf.at,private,6,1362540,eagle5,2851562,2021-11-25
-bellywings.com,public,276,202579,jurgenlinder,334992,2007-10-09
-belray-consulting.com.au,private,30,884170,raybel,874830,2013-04-05
+bellywings.com,public,277,202579,jurgenlinder,334992,2007-10-09
+belray-consulting.com.au,private,31,884170,raybel,874830,2013-04-05
 belwebservices.eu,private,24,850884,bertsteens,1242201,2012-12-07
 belyfit.cl,public,40,1451852,godd4rk,3166596,2025-04-01
 bemakoha.com.ar,public,99,1217639,diegoshoc,2911457,2017-07-25
@@ -2386,12 +2386,12 @@ bitds.eu,private,19,1475658,jortellsg,2949499,2026-05-11
 bitermo.biz,private,37,1048890,bitermo,742921,2014-12-24
 bitermomng.com,private,42,966273,bitermo,742921,2014-02-23
 bitestop.com,private,53,283796,worldpromo,439337,2008-11-23
-bitgeek.com.au,private,33,1201858,cyanpixie,1377193,2017-03-16
+bitgeek.com.au,private,24,1201858,cyanpixie,1377193,2017-03-16
 bitlynx.com,private,27,56931,gmcgarry,130663,2005-04-30
 bitmagazin.com,private,20,1297424,motzned,529911,2019-10-20
 bitsultans.it,private,34,1454862,bitsultans,4452175,2025-05-17
 bittermail.com,private,36,1160427,tomaseac,924125,2016-05-29
-bitwaive.com,private,17,1482252,lechucknet,2981485,2026-09-23
+bitwaive.com,private,18,1482252,lechucknet,2981485,2026-09-23
 biuroaudytorskie.one.pl,public,134,990787,biuroaudytorskie,1793234,2014-05-19
 bivman.com,private,26,224965,bivman,248940,2008-02-09
 biwasbhattarai.com.np,private,28,1017054,biwas4488,1913507,2014-08-24
@@ -2576,7 +2576,7 @@ booths.au,private,23,1442189,wallyworld,2886874,2024-11-20
 booths.id.au,private,27,1211958,wallyworld,2886874,2017-06-03
 bootstrappable.org,private,31,1189547,rekado,757731,2016-12-17
 boranda.ro,public,112,720422,dragosb,810847,2011-09-15
-boratex.com.ar,public,95,1078459,jpaulini,1425684,2015-04-07
+boratex.com.ar,public,96,1078459,jpaulini,1425684,2015-04-07
 bordensite.com,private,17,842701,bivman,248940,2012-11-07
 borderlinereckless.com,private,62,12833,tnerb,30506,2003-12-08
 borealconsultores.cl,public,97,1216967,lcannobb,2908581,2017-07-18
@@ -2625,7 +2625,7 @@ bousias.net,private,28,959035,kbousias,529678,2014-01-25
 bouvart.be,private,41,134162,cbou,235823,2006-08-15
 bowmansarrow.us,public,190,212560,wolfjb,348987,2007-12-07
 box-play.com,private,40,1190863,raffio,2801336,2016-12-27
-boxathome.net,public,1599,901945,malamothe,1388141,2013-06-09
+boxathome.net,public,1600,901945,malamothe,1388141,2013-06-09
 boxcotechnologies.com.mx,private,18,1363930,boxcotech,3615939,2021-12-17
 boximity.co,private,15,1337807,megamatt,3494354,2020-12-30
 boxiq.com,public,285,899771,horatiudum,779148,2013-06-01
@@ -3446,7 +3446,7 @@ chicagosbestbar.com,private,7,1352140,senjanin,901743,2021-06-29
 chicagosbestwings.com,private,7,1352138,senjanin,901743,2021-06-29
 chicagostraightup.com,private,8,1181927,senjanin,901743,2016-10-31
 chickenbarrel.org,private,45,334295,joelkillspeople,505115,2009-07-21
-chickenkiller.com,public,448973,14,josh,1,2001-01-02
+chickenkiller.com,public,448984,14,josh,1,2001-01-02
 chiemtinhviet.com,public,204,1119968,nhoangf,1046886,2015-10-26
 chieppa.nl,private,9,1286680,mchieppa,3195433,2019-06-20
 chiesanuova.info,private,24,1051052,afterreplay,609942,2015-01-02
@@ -3530,7 +3530,7 @@ christracy.rocks,private,12,1455340,chirchor,730409,2025-05-24
 christyscottage.com,private,25,700524,timgrooms,778616,2011-08-03
 chrisworld.wtf,public,18,1445360,cxhome,2974016,2025-01-06
 chrisxp.xyz,public,72,1344154,chrisxp,99540,2021-03-13
-chromefiddle.com,private,37,874507,peterfschaadt,1298489,2013-03-03
+chromefiddle.com,private,36,874507,peterfschaadt,1298489,2013-03-03
 chroniclesoftimes.com,private,60,409124,kingkabuz,354382,2010-05-28
 chrsmck.com,private,43,116066,chrosmack,200595,2006-04-17
 chsh.us,private,28,669898,chirchor,730409,2011-05-02
@@ -4045,7 +4045,7 @@ coquettas.cl,public,66,1382668,rangue16b,3653323,2022-09-21
 coral-shop.ro,public,277,343753,gixeras,268981,2009-09-07
 coralcluster.com,private,36,1428610,rediris,4154331,2024-05-09
 corasgroup.com,private,106,694943,maer,765248,2011-07-18
-corbangt.com,private,37,796303,lanavas,718048,2012-05-28
+corbangt.com,private,30,796303,lanavas,718048,2012-05-28
 corbinwedding.com,public,184,1050665,acorbin3,2051516,2014-12-31
 corcaribe.com,private,34,164325,aimass,55619,2007-02-18
 cordisma.com,private,173,863400,cordisma,1273811,2013-01-25
@@ -4137,7 +4137,7 @@ cpmecatronica.cl,public,134,721788,truchon415,813805,2011-09-19
 cqdyss.com,private,16,1412545,tianboo,3992353,2023-11-14
 cquality.ir,public,147,985873,civilhouse,1406713,2014-05-02
 cr-pl.com.pk,private,29,680139,crplcompk,744486,2011-06-08
-crabdance.com,public,105361,88098,josh,1,2005-11-22
+crabdance.com,public,105360,88098,josh,1,2005-11-22
 crabdevel.org,private,51,905129,claudisimo,1398855,2013-06-20
 craft-innkeeper.co.uk,private,19,1421264,lgdolman,1056724,2024-02-29
 crafttech.cl,public,95,1435732,chreyes,2266140,2024-08-14
@@ -4209,7 +4209,7 @@ crivelli.info,private,11,1031519,flo121284,1062598,2014-10-25
 crlear.me,private,36,812366,crlear,1119930,2012-07-22
 crmd.mx,private,8,1444956,lucortm,4334966,2024-12-29
 crnjanski.at,public,90,1233631,miloscrnjanski,2950325,2017-12-17
-croatianholidays.eu,private,59,327918,mkauzlar,269926,2009-06-17
+croatianholidays.eu,private,60,327918,mkauzlar,269926,2009-06-17
 crockettcia.org,private,16,1459409,nimdah,862692,2025-08-01
 croftmail.com,private,53,263637,tonyhalford,414469,2008-08-16
 crommus.com.br,public,164,421960,volcanospy,625566,2010-07-17
@@ -4263,7 +4263,7 @@ css-aus.com,private,45,1226651,jaysonpriest,2624282,2017-10-13
 css-sites.com,private,7,1340244,jh888,925716,2021-01-26
 cst-ltda.cl,private,37,827145,cdornerv,1174510,2012-09-14
 cstang.hk,public,156,713815,cstanghk,797976,2011-08-31
-cstntno.com,private,37,1199497,jcostantino,2833465,2017-02-27
+cstntno.com,private,28,1199497,jcostantino,2833465,2017-02-27
 cstrike.com.np,private,21,1120167,abiral321,2368836,2015-10-27
 csvconstructora.cl,private,28,943682,tomishiko,755031,2013-11-29
 ct-ieftin.ro,private,3,1392067,mcliviu,301666,2023-02-02
@@ -4308,7 +4308,7 @@ cupidate.de,private,33,640534,skyflash,71881,2011-01-23
 cuppycake26.me,public,77,1301249,n8qvq,3005326,2019-12-05
 cupru.ro,private,22,908551,autoimpuls,1190310,2013-07-03
 curbmackay.com.au,private,98,947760,ainsch2,1271684,2013-12-15
-curiousengineer.com,private,37,1126719,scribblesm,2478145,2015-11-30
+curiousengineer.com,private,38,1126719,scribblesm,2478145,2015-11-30
 curlycraftworks.com,private,24,1343049,lordy2001,143742,2021-02-27
 curries.ch,private,25,698868,ammann,776237,2011-07-30
 currykarim.com,public,58,1434802,webenergy,877732,2024-07-30
@@ -4376,7 +4376,7 @@ cyclopsproject.eu,private,14,1418658,jortellsg,2949499,2024-01-31
 cycsolarchile.cl,private,30,1396338,diecallejas,3145772,2023-03-30
 cyde3.com,private,39,854152,inkforge,1185192,2012-12-20
 cygbornetwork.cl,private,3,1463749,darthseba,3615243,2025-10-17
-cylone.net,public,538,655824,sammyhal,710109,2011-03-14
+cylone.net,public,540,655824,sammyhal,710109,2011-03-14
 cyminmobiliaria.cl,private,29,1079790,totocorrea,2267827,2015-04-13
 cynematics.com,private,61,266184,nawlinstino,417800,2008-08-28
 cyperling.com,private,44,105861,yarpen,188218,2006-02-15
@@ -4409,7 +4409,7 @@ daban.fi,private,29,1341242,daban82,847691,2021-02-06
 dabctravel.cl,private,30,1144674,diegobarriga,391195,2016-02-28
 dabhome.net,public,479,339494,besancon,504087,2009-08-17
 dablo.net,private,31,887243,rgdg,1336322,2013-04-17
-dabox.ru,public,96,1395230,dronius,629948,2023-03-14
+dabox.ru,public,97,1395230,dronius,629948,2023-03-14
 dabros.net,private,95,740026,dabros,845657,2011-11-20
 dadaclubdearte.ar,private,22,1479075,fernandofoschiat,3290289,2026-07-12
 dadalogistica.com,private,57,1226477,dadalogistica,2944669,2017-10-12
@@ -4927,7 +4927,7 @@ diamondcrestcorp.com,private,13,1280303,esporer,3165946,2019-04-08
 diamondfineporcelain.co.uk,private,79,1151177,thepeterek,2347807,2016-04-05
 dianatintar.com,private,48,421622,coxxxtel,456253,2010-07-15
 dianeuhley.com,private,96,1197119,marselmustafin77,3596317,2017-02-09
-dianmarisa.com,private,37,318615,ronniegrezik,196190,2009-05-03
+dianmarisa.com,private,31,318615,ronniegrezik,196190,2009-05-03
 diargo.ar,public,34,1460430,biofarma,783086,2025-08-20
 diazlonghi.com.ar,private,54,339661,leo52,324996,2009-08-18
 diceandpixels.com,private,25,1177058,inkforge,1185192,2016-09-26
@@ -5420,7 +5420,7 @@ dwarffortress.org,private,41,822681,yamamushi,158181,2012-08-29
 dwikarsatama.com,private,42,1020845,binapotensia,1397084,2014-09-09
 dworak.one.pl,private,33,404503,qtazz,310277,2010-05-13
 dwrksn.com,private,31,884395,dwrksn,1327497,2013-04-06
-dx.com.ar,public,642,379610,leovaro,537137,2010-02-12
+dx.com.ar,public,643,379610,leovaro,537137,2010-02-12
 dx4.uk,public,60,1325013,ee9938,993734,2020-08-07
 dy.is,private,34,1474274,koichi,6434043,2026-04-18
 dycelectronica.com.ar,private,52,1133931,cjquero,2525267,2016-01-15
@@ -5436,7 +5436,7 @@ dylix.org,public,131,857091,dylix98,1259579,2013-01-01
 dyn.ch,private,596,255900,virtualmedia,404859,2008-07-08
 dyn.mk,public,724,921232,lqwe,1465973,2013-08-24
 dyn2.ch,private,16,1283882,knuesi,3180370,2019-05-18
-dyna-store.com.au,private,30,1077063,wazza823,2252950,2015-04-01
+dyna-store.com.au,private,31,1077063,wazza823,2252950,2015-04-01
 dynalinktech.com,private,48,718577,pkrnjevic,806962,2011-09-10
 dynamic.gs,private,22,907928,bkit,1408281,2013-07-01
 dynamoit.com.ar,public,125,1101274,dynamoit,2363969,2015-07-24
@@ -5737,7 +5737,7 @@ eletrica.eng.br,private,46,643276,eletricaengbr,605760,2011-02-02
 elettro-pio.ch,public,188,645181,elettropio,694072,2011-02-09
 elettronicazulian.com,private,22,986205,afterreplay,609942,2014-05-03
 elevapartes.com.ve,private,34,642774,alrivera,689627,2011-01-31
-elf.li,private,78,151159,gambit1007,260741,2006-11-30
+elf.li,private,79,151159,gambit1007,260741,2006-11-30
 elgestor.cl,private,27,1172092,mariosilva,2710968,2016-08-21
 elginlearning.org,private,26,962279,bridgetti,920540,2014-02-07
 elgranombu.com.ar,private,25,1136024,oevidns1,789070,2016-01-26
@@ -6099,7 +6099,7 @@ etax-cloud.com,private,19,1435491,taxcloud,4228880,2024-08-10
 etaxcenter.com,private,22,1452490,taxcenter,4416876,2025-04-11
 etaxerp.com,private,17,1412858,thaivoice,1251860,2023-11-17
 etch.one.pl,private,38,257787,goof3r,369500,2008-07-18
-eternalimpressions.com,public,217,410626,rpho,609616,2010-06-04
+eternalimpressions.com,public,216,410626,rpho,609616,2010-06-04
 eternicode.com,private,41,253869,eternicode,401741,2008-06-27
 eternicode.net,private,35,253873,eternicode,401741,2008-06-27
 eternicode.org,private,23,253874,eternicode,401741,2008-06-27
@@ -6234,7 +6234,7 @@ expresscargo.cl,private,48,444490,mfigueroa,637256,2010-08-19
 exroot.com,private,16,852769,zxter,1247786,2012-12-15
 exs-elm.ru,private,71,1035672,eleksir,453766,2014-11-11
 ext-clinicaavaria.cl,public,35,1375317,janfossi,381308,2022-05-11
-ext.io,private,1130,818480,gordonheaton,825730,2012-08-14
+ext.io,private,1131,818480,gordonheaton,825730,2012-08-14
 extend47.com,public,137,1226712,rpommer,575851,2017-10-14
 extintoresaguila.cl,private,15,1435289,extaguila,4226814,2024-08-07
 extorted.biz,private,9,1433409,extorted34,4207541,2024-07-10
@@ -6287,7 +6287,7 @@ factory2u.biz,private,10,1141823,hotthai,3300170,2016-02-16
 factseagull.net,public,39,1298001,maccmiles,2457829,2019-10-25
 facvaluri.ro,private,22,1233812,dutz,98541,2017-12-19
 fafas.in,private,21,239713,nekalta,383359,2008-04-17
-fafas.lt,private,27,1239071,nekalta,383359,2018-02-07
+fafas.lt,private,28,1239071,nekalta,383359,2018-02-07
 fagerho.lt,private,86,657615,hakonf,467589,2011-03-20
 fahd.pk,private,8,1328423,fahadmehar,2505348,2020-09-16
 fahnle.com.ar,private,27,1025732,gfahnle,1951691,2014-10-01
@@ -6366,7 +6366,7 @@ farmaciasantaines.com.ar,private,23,1217084,leopll,486369,2017-07-19
 farmaservicios.com.ve,private,27,661315,abahsas,497702,2011-03-31
 farmernepal.com.np,public,95,1272778,padam9999,2656477,2019-01-18
 farmhellas.eu,private,13,1163303,lsak,538217,2016-06-17
-farted.net,public,6855,109750,n8walker,95551,2006-03-11
+farted.net,public,6856,109750,n8walker,95551,2006-03-11
 faryne.tw,private,43,231405,faryne,372624,2008-03-10
 fascn8.com,private,42,1082172,tardisdns1,1438945,2015-04-24
 fashionbook.ir,private,26,985814,rahyaft,1047677,2014-05-02
@@ -6562,7 +6562,7 @@ fiveblacks.com,private,30,1267138,hrd2rchme,883616,2018-11-18
 fivepals.com,private,358,226679,dhworth,347383,2008-02-18
 fivva.net,private,18,807002,jona1492,343900,2012-07-02
 fiwers.cl,private,58,1380875,rictorm,2748827,2022-08-22
-fixbigoil.com,public,34,1267475,kgpi,3120083,2018-11-21
+fixbigoil.com,public,36,1267475,kgpi,3120083,2018-11-21
 fixed.cl,private,35,1020850,fixedcl,1928418,2014-09-09
 fixitcomputers.co.nz,private,39,876973,robertk1,1304722,2013-03-11
 fixnow.com.my,private,33,335341,fixnow,473065,2009-07-28
@@ -6859,7 +6859,7 @@ fsppagos.com,private,8,1348282,eduasoto,664072,2021-05-05
 fsq.be,private,34,1180342,5starq,2755368,2016-10-19
 fsuiom.org.np,private,10,1306073,iomdit,3352991,2020-02-03
 fteteam.com,private,29,1385792,marselmustafin77,3596317,2022-11-07
-ftp.sh,public,19225,101145,n8walker,95551,2006-01-26
+ftp.sh,public,19224,101145,n8walker,95551,2006-01-26
 ftpcloud.es,private,29,1387948,mavksoft2,2231709,2022-12-08
 ftyc.info,private,62,1293002,navarrow,559072,2019-09-02
 fu-good.tw,public,119,719894,pepperyen,810041,2011-09-13
@@ -6965,7 +6965,6 @@ gabrieldufour.com,private,35,878636,daviddesmeules,1308811,2013-03-17
 gadgetexperts.com,private,39,234588,rrlange,376281,2008-03-23
 gadu.ar,private,15,1300807,criquito01,194328,2019-11-30
 gaetanallard.ca,private,17,1434385,gallardmngit,4218267,2024-07-25
-gafton.eu,private,61,1411293,octavian77,3518633,2023-10-29
 gagannepal.com.np,public,258,1141047,admingagan,2564728,2016-02-14
 gagescu.com,private,64,962081,a746931,1657807,2014-02-06
 gagupa.com.br,private,51,468745,gagupa,643046,2010-09-09
@@ -7274,7 +7273,7 @@ gib.wtf,private,35,1238373,obscenity,468159,2018-01-31
 gidi.ar,private,11,1414763,criquito01,194328,2023-12-12
 gidi.com.ar,private,26,110857,criquito01,194328,2006-03-17
 gidjit.com,private,46,1042642,cpage3,670335,2014-11-30
-gierweb.nl,public,320,675041,basdegier,736647,2011-05-20
+gierweb.nl,public,321,675041,basdegier,736647,2011-05-20
 gies.net,private,43,1261207,mgies,750494,2018-09-13
 gifcreate.com,private,35,1365676,pherlihy,98453,2022-01-16
 gifga.com,public,225,1030580,jxs,1665605,2014-10-21
@@ -7283,7 +7282,7 @@ giftsland.ro,private,31,931291,giftsland,1510342,2013-10-03
 giftwow.com,private,72,31934,tnt2k01,24477,2004-10-08
 gigacode.eu,private,23,1178693,hkoenig,2736965,2016-10-07
 giganticfaggot.com,private,48,977683,haynguy,674935,2014-04-06
-gigaportal.pl,public,630,48546,mcalex01,118734,2005-02-17
+gigaportal.pl,public,632,48546,mcalex01,118734,2005-02-17
 gigs2go.org,private,23,1402879,gigs2go,3818138,2023-07-03
 gihar.ru,private,17,1445096,gihar,4336776,2025-01-01
 gilburd.de,private,45,1235984,levgil,2787025,2018-01-10
@@ -7350,7 +7349,7 @@ glk.com.np,public,110,1229581,hardiklami,2763664,2017-11-09
 gloart.hr,public,115,1280565,iglocky,3166788,2019-04-11
 global-investors.com,private,42,212159,rjclutt,84195,2007-12-05
 global-logistix.com.ar,private,26,1261470,gepsa,3096820,2018-09-17
-globalcash.com.pe,private,34,995074,xtexido,1409020,2014-06-03
+globalcash.com.pe,private,35,995074,xtexido,1409020,2014-06-03
 globalcc.com.mx,private,33,1433491,oescamil,1195883,2024-07-11
 globaldns.ro,private,12,1464702,vaxx,142542,2025-11-02
 globalgeocad.ro,public,43,1392685,kalmanbalazs,3092330,2023-02-11
@@ -7368,7 +7367,7 @@ globitoteam.com.ar,private,37,1228447,maer,765248,2017-10-31
 globocafe.ro,private,41,1179678,greensoft,787496,2016-10-14
 glorpsh.it,private,11,1482479,fruityloops,3526377,2026-09-29
 glowacka.eu,private,57,204776,sunriseson,228985,2007-10-24
-glowmouse.com,private,37,677919,mouse103,740323,2011-05-31
+glowmouse.com,private,27,677919,mouse103,740323,2011-05-31
 glowshells.com,private,13,758532,mouse103,740323,2012-01-24
 glowshells.net,private,23,677922,mouse103,740323,2011-05-31
 glxnk.com,private,18,1482842,gnikko,7143860,2026-10-08
@@ -7500,7 +7499,7 @@ gourry.ru,private,71,837419,katinsv,1203088,2012-10-21
 govindathakur.com.np,public,105,1089464,govindathakur,2317862,2015-05-28
 govoyagin.ru,public,29,1377917,oprssi,3710774,2022-06-29
 govoyaging.ru,public,34,1377918,oprssi,3710774,2022-06-29
-govt.hu,public,1395,864627,ende,283469,2013-01-30
+govt.hu,public,1396,864627,ende,283469,2013-01-30
 gowild.ru,private,28,747761,t3sting,342176,2011-12-15
 goyoka.hu,public,80,1283962,goyoka,3125254,2019-05-18
 gpap.com.br,private,16,550448,patriciainez,569365,2010-10-22
@@ -7907,7 +7906,7 @@ happyhourhosting.com,private,36,304165,fsu,322626,2009-02-28
 happyhourhosting.net,private,37,304166,fsu,322626,2009-02-28
 happyit.ro,private,50,1202683,csezar,2846313,2017-03-22
 happylittlecodes.com,private,30,658222,happylittlecodes,714288,2011-03-22
-happyminecraft.org,public,535,1020392,tariqhamid,1913066,2014-09-08
+happyminecraft.org,public,536,1020392,tariqhamid,1913066,2014-09-08
 happymosaic.ru,public,90,1246760,nikkojemyakin,3046746,2018-04-20
 happypc.ca,public,233,228808,happypc,325391,2008-02-27
 happyrobotics.com,public,358,789302,jwp,1037590,2012-05-02
@@ -7961,7 +7960,7 @@ hatonapp.co.uk,private,41,1304933,ianbrumby,3350849,2020-01-20
 hatumena.com,public,435,327323,murbas,374812,2009-06-15
 haua.tw,private,72,657158,abcde1028123,656969,2011-03-19
 hauganslekt.no,public,214,940848,halvor07,1576841,2013-11-17
-hauikiresearch.com,private,37,1172650,lordy2001,143742,2016-08-25
+hauikiresearch.com,private,28,1172650,lordy2001,143742,2016-08-25
 hausernine.com,private,10,1424141,drdoogieha,4128265,2024-04-03
 hausler.ee,private,23,225010,gilderman,309531,2008-02-09
 hauta.net,private,75,1257379,jham4237,3087107,2018-08-17
@@ -7979,7 +7978,7 @@ hbdunes.com,private,14,1246332,jeffgoodrich,2956669,2018-04-16
 hberlin.de,private,37,1319321,caputt,804193,2020-06-08
 hblbrasil.com.br,private,50,651797,rabrahamsson,693600,2011-03-01
 hbmau.ch,private,7,1359516,vmeier,211424,2021-10-13
-hbmc.net,public,3099,209422,randyf,344620,2007-11-19
+hbmc.net,public,3100,209422,randyf,344620,2007-11-19
 hbmobile.com.np,private,27,1309971,cuneelsd,3301313,2020-03-19
 hbplw.ch,public,318,1134497,wasermarkus,1613507,2016-01-18
 hcf.org.za,private,42,211727,rbleeker,276364,2007-12-02
@@ -8256,7 +8255,7 @@ homecoming.com.ar,private,128,425735,torobt,551379,2010-07-29
 homecore.space,private,38,1197332,ekramskoi,796505,2017-02-10
 homedomn.com,private,22,1379071,flippyx,3616413,2022-07-24
 homegecko.org,public,224,1162943,flyinggecko,2660658,2016-06-15
-homelinuxserver.org,public,2670,917205,snrunnels,1258304,2013-08-07
+homelinuxserver.org,public,2671,917205,snrunnels,1258304,2013-08-07
 homelylark.uk,private,14,1442724,sealyboi,3513178,2024-11-27
 homeoncloud.ca,private,41,1257051,2mptsv2xmnuv,3085127,2018-08-14
 homeonthewater.com,public,230,983276,markjames,1248185,2014-04-22
@@ -8330,7 +8329,7 @@ hotelesparana.com.ar,private,32,1094521,dfisolo,1720506,2015-06-21
 hotelhineni.com,public,156,411905,hotelhineni,611237,2010-06-08
 hotelria.ro,public,102,1193974,xenopol,2812905,2017-01-18
 hotelsutherland.cl,private,35,1308729,claudiotri,3166956,2020-03-04
-hoteltender.com,private,37,304671,weirlawit,932139,2009-03-02
+hoteltender.com,private,38,304671,weirlawit,932139,2009-03-02
 hotelupgrade.com,private,76,901761,sbate,608337,2013-06-08
 hotelvalahia.ro,private,33,1180650,40245612987,185291,2016-10-21
 hotmarket.bg,public,76,1317941,alinadesign,2588739,2020-05-26
@@ -8364,7 +8363,7 @@ hriteshrai.com.np,private,25,1374996,hritesh,3581819,2022-05-05
 hrlacessorios.com.br,private,34,970192,almco41,1689214,2014-03-10
 hrtech.cl,private,13,1202628,shocklo,2077898,2017-03-22
 hs-yachten.at,public,120,750536,herbertskala,715526,2011-12-26
-hs.vc,public,4944,238770,xpuctoc,382500,2008-04-12
+hs.vc,public,4945,238770,xpuctoc,382500,2008-04-12
 hsbk.org,private,29,779697,mattiasnordlund,1013292,2012-04-01
 hschnet.de,private,33,1266416,hschnet,3116462,2018-11-10
 hse.tw,public,442,1147374,yvens,2378693,2016-03-14
@@ -8766,7 +8765,7 @@ infinisa.com,private,40,182585,rothwell,306887,2007-06-10
 infinitygroup.com.ar,public,141,1156973,lukasc1981,1614172,2016-05-08
 infinityon.com,public,159,1263500,thisiskhurshid,3103874,2018-10-10
 infis.net.ru,private,123,141297,infis,246413,2006-09-30
-info.gf,public,12142,342460,carlb613,323919,2009-08-31
+info.gf,public,12141,342460,carlb613,323919,2009-08-31
 info42.cc,private,6,1439509,mwehle,4276299,2024-10-10
 infoaduana.cl,private,15,1314830,friedrich,1165834,2020-04-29
 infoaraucania.cl,public,42,1441019,elmuecinaustral,2695868,2024-11-01
@@ -9651,7 +9650,7 @@ julten.com,private,43,846988,cabacca,1231432,2012-11-22
 jultenphotography.com,private,18,1375406,cabacca,1231432,2022-05-13
 jumao.com.ar,private,23,1173498,sades,427668,2016-08-31
 jumbobot.com,private,7,566430,mlukach,162793,2010-11-09
-jumpingcrab.com,public,50760,87966,josh,1,2005-11-21
+jumpingcrab.com,public,50761,87966,josh,1,2005-11-21
 juncotic.com,private,89,1143338,diecordoba,624927,2016-02-22
 jundy.org,public,574,199133,jundy,330266,2007-09-19
 jungbrewing.org,private,46,1000954,jrscholz,1836851,2014-06-25
@@ -10710,7 +10709,7 @@ lightway.co.za,private,12,499289,saintgroup,270570,2010-09-21
 lignotech.com.br,public,91,1079021,lignotech,2263512,2015-04-10
 lignotechbrasil.com.br,public,96,1079023,lignotech,2263512,2015-04-10
 lignotechbrazil.com.br,public,111,1079024,lignotech,2263512,2015-04-10
-ligowski.com,public,232,858750,mligowski,1263085,2013-01-08
+ligowski.com,public,233,858750,mligowski,1263085,2013-01-08
 ligrig.ch,private,48,1194466,ralfind,2814872,2017-01-22
 likable.one.pl,private,31,796915,pletwa,1044821,2012-05-30
 likudliberal.org,public,275,1044091,likudliberal,2030282,2014-12-04
@@ -10930,7 +10929,7 @@ lospital.com.ar,private,43,298245,lospital,459159,2009-02-04
 lost.si,private,41,143719,pataky,251033,2006-10-16
 lostacos.com.ar,public,98,1285419,panchowhite,740353,2019-06-05
 lostbytes.me,public,146,1206218,lostbytes,1036052,2017-04-17
-lostgumball.com,public,480,101147,schnarr,183893,2006-01-26
+lostgumball.com,public,481,101147,schnarr,183893,2006-01-26
 lostindarkness.net,private,32,137499,chronos1337,231362,2006-09-05
 lostraukos.cl,public,80,1397275,amillalen,834426,2023-04-11
 losworksfilms.com,private,12,1411839,dumpski,3762307,2023-11-04
@@ -11078,7 +11077,7 @@ lvkita.net,public,217,909394,lvkita,1414172,2013-07-07
 lvov.in,private,35,768720,gmind,435773,2012-02-26
 lw07.de,private,52,1318682,thintz99,2889067,2020-06-02
 lwts.ru,private,152,978332,loutskiy,1284473,2014-04-08
-lxmicro.net,public,107,1403878,ayaxrojo,1865595,2023-07-16
+lxmicro.net,public,108,1403878,ayaxrojo,1865595,2023-07-16
 lxnch.ro,public,169,364204,lxndrnch,540427,2009-12-09
 lxqb.pt,public,163,791417,lxqbpt,1557495,2012-05-10
 lxrowe.net,public,37,957713,lxrowe,1170779,2014-01-19
@@ -11093,7 +11092,7 @@ lynn520.xyz,public,35,1465635,riverboat8589,5034710,2025-11-17
 lyons-tech.com,private,65,1248083,alwaystoke,2274209,2018-05-04
 lysterfieldsailing.com.au,private,19,1334810,sustainability,1201091,2020-11-25
 lystrup.org,public,124,1223889,sorenb,2935810,2017-09-19
-lyx.li,private,44,1173904,lixccc,127908,2016-09-03
+lyx.li,private,45,1173904,lixccc,127908,2016-09-03
 lyxcorp.com,public,436,1134514,lyxcorp,2537755,2016-01-18
 m-sistem.com,private,24,729291,metsism,828100,2011-10-15
 m00s.ch,private,18,1186541,m00s,2786809,2016-11-30
@@ -11796,7 +11795,7 @@ merentitis.gr,private,9,1212970,meres,2890855,2017-06-12
 meres.gr,private,22,1340386,meres,2890855,2021-01-28
 merexca.com.ve,public,127,799390,merexca,1066012,2012-06-06
 meridgway.ca,private,34,1282826,sridgway,3175265,2019-05-06
-meridiano.com.br,public,218,966962,meridiano,3460366,2014-02-26
+meridiano.com.br,public,210,966962,meridiano,3460366,2014-02-26
 meridianoshop.com.br,public,82,1119293,meridiano,3460366,2015-10-23
 meritia.com.ar,private,40,1075407,meritia,2244707,2015-03-26
 merniekszm.lv,public,97,993402,vasya057,1805522,2014-05-28
@@ -12004,7 +12003,7 @@ mindserasmusplus.com,private,11,1373426,jortellsg,2949499,2022-04-06
 mindsoft.cl,private,37,654427,rodragor,702589,2011-03-10
 mine.bz,public,16722,195786,carlb613,323919,2007-08-29
 minecraft.id.lv,public,544,1129252,exection,161402,2015-12-15
-minecraft.pe,public,4326,1352229,avaixus,2960268,2021-07-01
+minecraft.pe,public,4321,1352229,avaixus,2960268,2021-07-01
 minecraftlukas.com,private,60,1211371,snevoll,1644132,2017-05-29
 minecraftpotato.com,private,632,1250335,astone5544,3310622,2018-05-28
 minecraftr.us,public,7154,827429,hockeymikey,741969,2012-09-15
@@ -12082,7 +12081,7 @@ mixedingredients.ca,public,114,1062084,sneadprasad,2122189,2015-02-08
 mixyourshot.ch,private,9,1431965,63836861,4192798,2024-06-21
 mixzavod.ru,private,11,1480048,osider1,6682982,2026-08-02
 mizfar.com,private,43,195948,mizfar,325202,2007-08-30
-mjfinancialservices.com,public,231,1034896,tcs2tx,331408,2014-11-07
+mjfinancialservices.com,public,232,1034896,tcs2tx,331408,2014-11-07
 mji.ro,public,261,1052605,istvansentes,1364499,2015-01-07
 mjjimenezortodoncia.es,private,13,1239019,jimenezorto,3014654,2018-02-06
 mjones.co.uk,private,24,1053212,michaeldj,489489,2015-01-09
@@ -12216,7 +12215,7 @@ moonangel.com,public,694,685376,mrbogue,752545,2011-06-25
 moonleaves.com,private,48,398387,mpasquale,583086,2010-04-22
 moonlighttennis.ca,private,46,1348316,infoquebec3,3549276,2021-05-05
 moonstar.com.np,public,111,1206932,jomanozgml,2864033,2017-04-23
-mooo.com,public,875416,29,josh,1,2001-03-15
+mooo.com,public,875421,29,josh,1,2001-03-15
 mooo.info,public,6290,22504,dons,77509,2004-06-23
 moorcroft-associates.co.uk,private,14,401858,dmoorcroft,599167,2010-05-04
 mooreretro.be,private,13,1459292,tsm1033,1589579,2025-07-30
@@ -12366,7 +12365,7 @@ msj.ro,private,31,946407,iulius01,1597824,2013-12-10
 mspservicios.com.ar,private,36,1232023,gustavop,151166,2017-12-01
 mssfabrication.com.au,private,33,1212777,mssfabrication,2890268,2017-06-11
 mssl-hk.com,private,37,720344,wsktommy68,430881,2011-09-14
-msspsparaguay.org,public,214,1368502,sispar,2745254,2022-02-24
+msspsparaguay.org,public,215,1368502,sispar,2745254,2022-02-24
 msw.cl,private,15,1474039,mhiker,3039145,2026-04-13
 msw.ro,private,38,1103230,fluvialdns,2011441,2015-08-03
 msxbox.ru,private,13,1458865,blez61,4117314,2025-07-24
@@ -12376,7 +12375,7 @@ mt0.com.ar,private,67,729957,mostro3000,417427,2011-10-18
 mtcouros.com.br,public,198,684520,grbih,667145,2011-06-22
 mtgv.ro,public,87,1214861,mtgvhr,2899995,2017-06-28
 mthoodlodges.com,public,206,844641,jimcam,1221586,2012-11-14
-mtomtech.co.kr,public,65,1235107,mtomtech,1722025,2018-01-02
+mtomtech.co.kr,public,66,1235107,mtomtech,1722025,2018-01-02
 mtpeakbuilders.com,private,25,998626,mmscadmin,1182927,2014-06-17
 mtsang.info,private,99,284704,mtsang,427614,2008-11-28
 mtto-total.com,private,14,1463371,ecamey,2218876,2025-10-10
@@ -12492,7 +12491,7 @@ my-smart-home.eu,private,7,1414626,raptorsds2,3921090,2023-12-10
 my-smart-meter.de,private,10,1404529,raptorsds,2744690,2023-07-25
 my-team.com.au,private,21,1353052,sentienc3,3574501,2021-07-12
 my.qh.ie,public,94,1277177,quantumhosting,3157736,2019-03-06
-my.to,private,32611,992713,an0nym,1720647,2014-05-25
+my.to,private,32612,992713,an0nym,1720647,2014-05-25
 my247now.com,private,47,1374600,dennisctme,3626172,2022-04-27
 my9dots.com,private,30,1283604,kokkuen,1127038,2019-05-15
 myabba.org,private,10,1061331,bblankenship,1308153,2015-02-05
@@ -12854,7 +12853,7 @@ network-xxiii.net,public,246,661061,wolf023,718090,2011-03-30
 network6.net.au,private,28,79291,noonman,155475,2005-10-10
 networkbacon.com,private,22,1113840,jbacon2,2418304,2015-09-25
 networkguru.com,public,894,904453,deepatel,1389067,2013-06-18
-networkindia.com,public,576,904454,deepatel,1389067,2013-06-18
+networkindia.com,public,577,904454,deepatel,1389067,2013-06-18
 networkmonks.net,private,25,1216890,ejmagpayo,563167,2017-07-18
 networkoutpost.com,public,515,267964,tfrederick74656,924852,2008-09-06
 networksolutionscenter.com,private,40,1232721,provedmedia,2771840,2017-12-08
@@ -13250,7 +13249,7 @@ nunnisoft.ch,private,16,1109386,nunni,2398113,2015-09-03
 nuovelle.ee,private,15,1220997,zassaz,742904,2017-08-24
 nurah.com.my,private,38,391452,nurah,572164,2010-03-30
 nurro.net,private,43,910019,nicklinn,420897,2013-07-09
-nursph.org,public,240,833778,apapendieck,799412,2012-10-08
+nursph.org,public,241,833778,apapendieck,799412,2012-10-08
 nurulaisyah.com,private,42,1001447,faitz,547741,2014-06-27
 nush.com.np,private,22,962881,nushnp,1661277,2014-02-09
 nutansharma.com.np,public,68,1408157,hardiklami,2763664,2023-09-15
@@ -13268,7 +13267,7 @@ nvnetworks.com,private,17,1429323,rcnv,493286,2024-05-18
 nwhoa.com,private,16,643265,shundi,7396,2011-02-02
 nwpa.com.au,private,25,1246371,agentsdata,3045731,2018-04-16
 nxkn.ru,private,54,1016928,nixikanius,317034,2014-08-24
-nya.pub,public,5084,1089733,trdaisuke,2300080,2015-05-29
+nya.pub,public,5086,1089733,trdaisuke,2300080,2015-05-29
 nyabbai.com,private,46,1085659,nyabb,2299237,2015-05-10
 nybha.org,private,7,1447927,doklime1,3343611,2025-02-11
 nycp.com,private,23,1085495,kuzmar,375937,2015-05-09
@@ -13301,7 +13300,7 @@ obix.us,private,31,1164737,obix,919716,2016-06-27
 objavimo.si,private,27,674861,nabje,404089,2011-05-19
 objectiveos.org,private,13,1480418,rebovas,6380122,2026-08-11
 objectscoupledbysprings.net,public,35,1324953,hhwieman,2959548,2020-08-06
-obliqueprism.com,private,17,1479638,mrvasquez,762971,2026-07-24
+obliqueprism.com,private,18,1479638,mrvasquez,762971,2026-07-24
 oblisc.co.il,private,28,861368,hazan,1269317,2013-01-18
 oboro.ch,private,27,1269340,nicosonna,1422645,2018-12-11
 obscure.ch,private,21,253517,antonio333,401558,2008-06-25
@@ -13369,7 +13368,7 @@ oglesbypm.com,public,249,713970,octoberblu3,800343,2011-08-31
 ogs.ro,private,35,642118,schnapps,97070,2011-01-29
 oh6ah.fi,private,24,1337884,oh6kw,3345148,2021-01-01
 ohamoha.ro,private,10,1478186,ohamoha,561283,2026-06-25
-ohbah.com,public,3520,9807,pattait,38481,2003-09-07
+ohbah.com,public,3519,9807,pattait,38481,2003-09-07
 ohecc.org,private,17,1294892,tem41042,545858,2019-09-23
 ohgren.nu,private,14,95125,xlarge,119935,2005-12-30
 ohhaicheewee.com,private,36,1295053,quietly,1449017,2019-09-24
@@ -13545,7 +13544,7 @@ orand.org,private,22,1213043,n4zxi,2112960,2017-06-12
 orangebox.xyz,private,27,1263180,heroicdoses,1750826,2018-10-07
 orangeroad.tw,private,23,1296931,tsungching,3318199,2019-10-15
 oranjelaan.org,private,26,1407288,koendeheer,3944296,2023-09-02
-oratech-solution.com.my,public,85,799142,oratech,1065397,2012-06-05
+oratech-solution.com.my,public,86,799142,oratech,1065397,2012-06-05
 orb2b.com,private,43,1059412,vitojeans,2110664,2015-01-30
 orbicorp.cl,private,17,205220,jota58,338966,2007-10-26
 orbvious.com,private,24,299423,scraimer,140487,2009-02-09
@@ -13554,7 +13553,7 @@ orchid-idea.com,public,141,1263207,hylkehogewind,2949408,2018-10-07
 ordanburdan.com,private,33,410899,mustinet,609967,2010-06-05
 orderble.com,private,66,588640,honghutech,568952,2010-12-05
 ordermex.com,private,40,1316777,kike3d,850150,2020-05-15
-orderunited.com,private,17,1270455,ccooksey,3129657,2018-12-24
+orderunited.com,private,18,1270455,ccooksey,3129657,2018-12-24
 ordinal.guru,private,9,1442075,telepro,450800,2024-11-18
 ordinateurs-anix.com,private,40,912778,anoiseux,1428695,2013-07-20
 ordsall.ru,public,74,1396251,ordsall,3483190,2023-03-29
@@ -14079,7 +14078,7 @@ perun-computer.com,private,10,1445825,milosp,3193693,2025-01-13
 perv.one.pl,private,29,306268,cipka15,310089,2009-03-09
 pervers.ch,public,123,935681,karlziege,1025528,2013-10-23
 pessalacia.com.br,public,183,383678,pessalacia,563349,2010-03-01
-pestarini.com.ar,public,141,1208551,conapea,502808,2017-05-06
+pestarini.com.ar,public,142,1208551,conapea,502808,2017-05-06
 pestarinosa.com.ar,private,7,365974,gti,141946,2009-12-17
 pestrepellents.com,private,51,283807,worldpromo,439337,2008-11-23
 petaspeed.com,private,15,1302804,secret58,1299170,2019-12-25
@@ -14219,7 +14218,7 @@ pieseautocraiova.ro,private,7,1332983,eldarafraid1,643402,2020-11-05
 pieties.net,private,29,979671,royalme,1731185,2014-04-11
 piglr.com,private,41,1425242,hammerpiglr,4134275,2024-04-12
 pihl.fi,private,25,766550,peinu,952720,2012-02-19
-pii.at,public,2663,718837,zmurk,807236,2011-09-11
+pii.at,public,2664,718837,zmurk,807236,2011-09-11
 pilas.biz,public,175,911014,ysidoro,1377203,2013-07-13
 pilatesfitness.co.uk,private,55,1289396,bellocarico,152134,2019-07-21
 pilatesharmonia.com.br,private,20,753950,sansara2,899495,2012-01-08
@@ -14432,7 +14431,7 @@ poolpo.cl,public,98,1192629,luispoolpo2,2808140,2017-01-09
 poolspotbg.com,private,90,1264939,vesel,2976389,2018-10-25
 poormanscow.com,public,247,240655,c015431,50705,2008-04-22
 poormatt.com,private,37,361989,heretoo,537636,2009-11-28
-pooyaalavian.com,public,168,1094248,pooyaalavian,2338742,2015-06-20
+pooyaalavian.com,public,169,1094248,pooyaalavian,2338742,2015-06-20
 popsamustdie.net,private,49,298690,saosivert,459712,2009-02-06
 popsistemas.com.br,private,29,1327823,skimoh,3450291,2020-09-08
 poptour.com.ar,public,242,1046544,nmorniroli,493551,2014-12-15
@@ -14609,7 +14608,7 @@ privacy.gy,private,11,1462341,privdom,4882304,2025-09-22
 privacy.mu,private,10,1462340,privdom,4882304,2025-09-22
 privalia.biz,private,18,1220866,priwsg,2924427,2017-08-23
 privat-server.org,private,43,1180336,susanatunon,2697610,2016-10-19
-privatedns.org,public,20256,142480,four2theizz0,248679,2006-10-08
+privatedns.org,public,20257,142480,four2theizz0,248679,2006-10-08
 privoz.im,private,8,1340489,vkm,3508135,2021-01-29
 prixtonltd.com,public,80,1441746,hunterlexington,4302379,2024-11-13
 priyashdhakal.com.np,public,27,1404372,priyashdhakal,3912442,2023-07-23
@@ -14683,7 +14682,7 @@ propertyshots.com,public,229,399985,pliderman,592146,2010-04-28
 propertyshots.net,public,193,400026,pliderman,592146,2010-04-28
 prophetconsulting.net,private,14,799638,jcacciap,1066623,2012-06-07
 propiedadesryn.cl,public,86,1194037,necronius,467332,2017-01-19
-proprietarul.eu,private,68,1447412,aaverian,324578,2025-02-06
+proprietarul.eu,private,69,1447412,aaverian,324578,2025-02-06
 props.org,private,62,633623,thepropsman,652003,2011-01-05
 proqman.hu,private,17,1281559,proqman,3170440,2019-04-22
 prorang.si,private,33,710335,lucko,794880,2011-08-24
@@ -14841,7 +14840,7 @@ pxq.ca,private,40,1094021,depassp,2337745,2015-06-19
 py2bil.com.br,private,7,1338313,gcremeri,360446,2021-01-06
 pydabogados.com.ar,public,109,1029587,mpalavecino,1447398,2014-10-17
 pyesetz.net,public,175,826310,jyavner,1175358,2012-09-11
-pykett.info,private,44,664913,spykett,723572,2011-04-12
+pykett.info,private,45,664913,spykett,723572,2011-04-12
 pyltex.com.ar,private,27,1227600,mjacquet,1099173,2017-10-23
 pymc.cl,private,28,814775,ccornejo,417714,2012-07-30
 pyonex.com.au,private,15,1251373,mlagos,2929911,2018-06-08
@@ -14977,7 +14976,7 @@ radioaawaj.com.np,public,84,1124524,ramkumar11,2466851,2015-11-17
 radiodelsur.cl,public,80,1282718,djdiaz,1925969,2019-05-05
 radiodeveloper.ir,private,9,1313068,sheperson,1263375,2020-04-15
 radioimpactfm.ro,private,169,567001,radioimpactfm,662390,2010-11-10
-radiolallave.cl,public,135,830840,priverat,1187226,2012-09-27
+radiolallave.cl,public,134,830840,priverat,1187226,2012-09-27
 radiosolarkompass.org,private,53,688082,reduzent,682508,2011-07-02
 radiostadtfilter.ch,private,13,1159793,nicatstadtfilter,577568,2016-05-25
 radix-site.com,private,42,278874,kkehler,422174,2008-10-29
@@ -15597,7 +15596,7 @@ roboart.net,private,17,50573,eclipse15,64260,2005-03-06
 robogaming.ch,private,19,824595,robotec007,1170975,2012-09-05
 robohub.ro,private,14,1481213,miraur,2966738,2026-08-29
 robonauts.net,public,258,373691,jdg717,551626,2010-01-20
-robot-agachado.com,public,59,1379108,avillavi,3722548,2022-07-25
+robot-agachado.com,public,58,1379108,avillavi,3722548,2022-07-25
 robot-agachado.net,public,79,1379106,avillavi,3722548,2022-07-25
 robot-agachado.org,public,82,1379102,avillavi,3722548,2022-07-25
 robot-armies.com,public,409,167598,ninjaofdoom,285369,2007-03-12
@@ -15774,7 +15773,7 @@ rpssroc.pt,private,18,1088120,lanware,126024,2015-05-21
 rpvelectrics.com.au,public,145,916396,rpvelectrics,1445701,2013-08-04
 rpy.us,private,24,1325844,jayrodrigo,3104518,2020-08-17
 rread.co.uk,private,115,980663,jamesread90,1355558,2014-04-15
-rren.ch,public,324,202544,darrenity,333232,2007-10-09
+rren.ch,public,325,202544,darrenity,333232,2007-10-09
 rrks69.com,private,9,754594,senjanin,901743,2012-01-11
 rrsolucoes.info,private,31,986504,vr6racer,989615,2014-05-05
 rrtr.nl,private,13,1406201,renoor,1918342,2023-08-17
@@ -15873,7 +15872,7 @@ rvmdigitech.ro,private,19,1371917,waderus,3664416,2022-03-14
 rvwebconsulting.com,private,39,967883,rsvlito,877405,2014-03-01
 rwaitkus.com,private,41,1185301,rpwaitkus,2781367,2016-11-22
 rwapendlehill.com.au,private,34,1276027,rwapendlehill,3151118,2019-02-20
-rwbcode.com,public,934,19586,pcman,68541,2004-05-02
+rwbcode.com,public,935,19586,pcman,68541,2004-05-02
 rwg.ro,private,31,723376,rudolfwalter,816501,2011-09-25
 rwhpool.net,private,44,1230394,hhwieman,2959548,2017-11-17
 rwlloyd.com,private,53,804066,rwlloyd,1086678,2012-06-22
@@ -17429,7 +17428,7 @@ ss77892.ru,private,83,643443,ss77892,690483,2011-02-03
 ssaagunsales.com.au,public,115,1161535,ssaaau,343008,2016-06-05
 ssanaodontologia.com.ar,private,34,806984,ssanaodontologia,1103023,2012-07-02
 ssgconvenios.com.ar,public,123,841551,patridedo,1215531,2012-11-05
-ssh.cx,private,59,1239467,t3sting,342176,2018-02-11
+ssh.cx,private,58,1239467,t3sting,342176,2018-02-11
 ssh.id.lv,private,24,1026876,djbomba,65933,2014-10-06
 sshto.us,private,21,1203665,shirogitsune,1372330,2017-03-29
 ssi.org.mx,private,12,1382781,gerardobg,979685,2022-09-22
@@ -17608,7 +17607,7 @@ stpetersandstpauls.org,public,218,902289,bkuriakose,1389257,2013-06-10
 stralucitor.ro,private,18,1310747,culitab,671152,2020-03-27
 strangemind.com,private,20,43403,strangemind,111222,2005-01-12
 strangersduo.com,private,4,1443350,kindler,482281,2024-12-06
-strangled.net,public,118891,2,josh,1,2001-01-03
+strangled.net,public,118889,2,josh,1,2001-01-03
 strata-aust.com.au,private,14,183696,pfouche,141668,2007-06-17
 strataclad.com,private,48,409080,viaticam,548006,2010-05-28
 strategic-alliance.in,private,43,334206,etejesh,388425,2009-07-21
@@ -18700,7 +18699,7 @@ tinhuey.com,private,28,698865,allenbukoff,771185,2011-07-30
 tinkerlib.tk,private,22,1155709,libertos,1505095,2016-04-30
 tintincloud.com,private,33,1096460,6xxwhp,2346479,2015-06-30
 tiny.com.np,public,37,1223698,bikasgurung,2337753,2017-09-18
-tiny.gr,private,27,1174590,pasxalisk,2706172,2016-09-08
+tiny.gr,private,28,1174590,pasxalisk,2706172,2016-09-08
 tinyatom.net,private,38,410288,osirix,258910,2010-06-02
 tinydev.pro,private,13,1447798,udrea93,4363309,2025-02-09
 tinysun.net,public,284,1030650,tinysun,1976617,2014-10-21
@@ -18861,7 +18860,7 @@ tourismwelfare.org.np,public,156,728911,infotechnab,552216,2011-10-14
 tourocwines.com,private,32,1199136,mg32257,765375,2017-02-24
 toursocalwines.com,private,36,1199138,mg32257,765375,2017-02-24
 tovamiasto.com,private,109,1262163,vesel,2976389,2018-09-24
-tovel.cl,public,17,1483768,tovel,7171385,2026-10-30
+tovel.cl,public,15,1483768,tovel,7171385,2026-10-30
 towards.fi,private,27,1221899,ollipie,217464,2017-09-02
 towens.com,private,26,163555,tomowens,279302,2007-02-12
 towerchile.cl,public,123,1104966,kamencito,2355852,2015-08-12
@@ -19145,7 +19144,7 @@ ubeagle.com,public,256,315965,jrobertshawe,480073,2009-04-19
 uberfubar.com,private,40,711596,uberfubar,797282,2011-08-27
 ubernerden.com,public,265,865028,madoue,1277773,2013-01-31
 ubernet.info,private,27,1014121,mal30,1900643,2014-08-12
-ubidrhzos.com,private,35,1323143,dzecevic,2150632,2020-07-18
+ubidrhzos.com,private,36,1323143,dzecevic,2150632,2020-07-18
 ubillos.org,private,46,58207,javierubillos,96276,2005-05-12
 ubiq.org,private,44,701725,reinoud,742795,2011-08-06
 ubmfuraje.ro,private,17,1173367,zsombi,675041,2016-08-30
@@ -19244,7 +19243,7 @@ underthebulb.co,public,47,1162458,smithuk,4149045,2016-06-11
 underwritertender.com,private,38,304734,weirlawit,932139,2009-03-02
 undiarioparabruna.cl,public,92,1195044,fsanzana,2816726,2017-01-25
 undo.cl,public,188,798740,99483261,1064178,2012-06-04
-undo.it,public,13260,26403,lyranet,23700,2004-08-24
+undo.it,public,13262,26403,lyranet,23700,2004-08-24
 unet3.com,private,69,1376781,carlosepa,94077,2022-06-09
 unforgettablecreative.com,private,54,817229,unfrgtbl,1139509,2012-08-08
 unfortunatethings.xyz,private,10,1419395,vyvyanan,2731435,2024-02-08
@@ -19571,7 +19570,7 @@ vhutemas.org,private,32,976526,sjd,1653029,2014-04-02
 vi-echo.ch,public,60,746256,iozicxy,4498038,2011-12-10
 viahelper.com,private,15,1481788,kevwong33,555823,2026-09-11
 viajesmijura.es,private,25,860357,mjrgestion,1024700,2013-01-14
-vialtosca.com.ar,public,120,387742,alienduce,607565,2010-03-16
+vialtosca.com.ar,public,121,387742,alienduce,607565,2010-03-16
 viange.eu,public,84,1336189,viange,3485359,2020-12-11
 viapointpos.com,private,127,1478240,kevwong33,555823,2026-06-26
 viar3d.com,private,402,1137528,pelujo,2316059,2016-01-31
@@ -19584,7 +19583,7 @@ vice.ar,private,31,1328376,soymega,3087195,2020-09-15
 vicious.pt,private,15,344324,axicon,503857,2009-09-10
 vicky2001.com,private,50,859384,companymagic,1258688,2013-01-10
 vicross.net,private,29,699786,yousan,777708,2011-08-02
-victor-pozo.com,private,33,1350588,mrwell,3561145,2021-06-05
+victor-pozo.com,private,34,1350588,mrwell,3561145,2021-06-05
 victorialuka.com.ar,public,125,852062,dolmastudio,1214732,2012-12-12
 victormurgar.tk,private,7,1316933,victormurgar,3390539,2020-05-17
 victorpereira.adv.br,private,95,704882,guido13,785139,2011-08-12
@@ -20126,7 +20125,7 @@ wigtil.net,private,35,22063,havardw,61625,2004-06-15
 wijayacloud.com,private,43,1359823,albertw86,1976045,2021-10-19
 wiki.gd,public,2552,196782,carlb613,323919,2007-09-04
 wikidelia.net,public,151,1443849,martinwguy,803805,2024-12-15
-wikilegia.at,public,133,797769,julianko,1029106,2012-06-01
+wikilegia.at,public,134,797769,julianko,1029106,2012-06-01
 wikilegia.com,public,538,792746,julianko,1029106,2012-05-15
 wikilegia.org,public,160,1249671,julianko,1029106,2018-05-21
 wikithrough.com,public,138,893049,xenther,1354586,2013-05-08
@@ -20159,7 +20158,7 @@ william-beene.com,private,42,808779,williambeene,1108383,2012-07-08
 williamlightfoot.com,private,44,41677,jlightfoot,108640,2004-12-29
 williammallory.com,private,36,85693,mturro,165414,2005-11-14
 williamsimard.com,private,35,339125,wsimard,464679,2009-08-15
-williamvictoria.com,private,18,1050139,wenbiao,2058947,2014-12-29
+williamvictoria.com,private,19,1050139,wenbiao,2058947,2014-12-29
 willkula.com,private,48,721127,worldpromo,439337,2011-09-17
 willmertens.com,private,42,1397315,willmertens,3853132,2023-04-12
 willoughbysite.com,private,19,646541,bivman,248940,2011-02-14
@@ -20253,7 +20252,7 @@ wolfscave.cc,private,15,1305909,knmce1,3043689,2020-02-01
 wolftech.ro,private,24,372227,kilingshadow,251203,2010-01-15
 wolnoscwkieszeni.pl,public,67,1447993,forgottennick,4362340,2025-02-12
 wolstencroft.com.au,private,22,776437,pugsley21,767571,2012-03-22
-wombecology.com,public,138,1304226,tioborracho,862578,2020-01-12
+wombecology.com,public,139,1304226,tioborracho,862578,2020-01-12
 wonder-cloud.de,private,43,1386267,pilarvwe,3168633,2022-11-12
 wonderlandbooths.com,private,20,1456007,kawingtamtkw,4194454,2025-06-03
 wonderlandcomics.net,private,12,1396909,idiotism,3591701,2023-04-06
@@ -20518,7 +20517,7 @@ yael.ch,private,33,1378327,fankhauserf,3715063,2022-07-08
 yafers.org,public,91,1463172,irishsiberian,5038727,2025-10-07
 yagyaprasad.com.np,private,34,1147524,yagyapangeni,2587129,2016-03-14
 yahabibi.ro,private,10,1456693,autoimpuls,1190310,2025-06-16
-yaishio.com,private,18,1285240,llqxjlx,3189800,2019-06-02
+yaishio.com,private,19,1285240,llqxjlx,3189800,2019-06-02
 yakenterprises.com,private,30,69402,dyakovich,148100,2005-08-23
 yakspravy.com,private,23,1047796,tchicago,1403359,2014-12-20
 yambam.com.np,public,32,1354436,bamyam,3578821,2021-08-03
