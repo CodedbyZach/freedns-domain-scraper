@@ -5,10 +5,12 @@ FreeDNS shared domain registry scraper.
 Collects every domain listed at https://freedns.afraid.org/domain/registry/
 and writes three files next to this script:
 
-  domains.txt  every domain, one per line, sorted (overwritten each run)
+  domains.txt  every domain, one per line, sorted
   domains.csv  domain, status, hosts, domain_id, owner, owner_id, created
-               (overwritten each run)
   changes.md   domains added and removed on each run, newest first
+
+The two domain files are only rewritten when domains were added or removed.
+A run with no additions or removals just logs "No changes" in changes.md.
 
 If the scrape looks incomplete (a page keeps failing, far fewer domains than
 the registry reports, or a big drop since the last run) the script exits with
@@ -484,18 +486,25 @@ def main(argv: list[str] | None = None) -> int:
     added = set() if first_run else current - previous
     removed = set() if first_run else previous - current
 
-    entry = build_entry(now, domains, added, removed, new_status, old_status, first_run)
+    changed = first_run or bool(added or removed)
+    if changed:
+        entry = build_entry(now, domains, added, removed, new_status, old_status, first_run)
+    else:
+        entry = f"## {now:%Y-%m-%d %H:%M} UTC\n\nNo changes ({len(domains):,} domains).\n"
     # changes.md first and domains.txt last: if a run dies midway, the next run
     # repeats the diff instead of losing it.
-    if first_run or added or removed:
-        prepend_entry(args.out / CHANGES_MD, entry)
-    write_text(args.out / DOMAINS_CSV, csv_text(domains))
-    write_text(args.out / DOMAINS_TXT, "".join(row["domain"] + "\n" for row in domains))
+    prepend_entry(args.out / CHANGES_MD, entry)
+    if changed:
+        # The domain files are only rewritten when domains were added or removed.
+        write_text(args.out / DOMAINS_CSV, csv_text(domains))
+        write_text(args.out / DOMAINS_TXT, "".join(row["domain"] + "\n" for row in domains))
 
     if first_run:
         message = f"Initial domain snapshot: {len(domains):,} domains"
-    else:
+    elif changed:
         message = f"Update domains: {len(domains):,} total, +{len(added)} -{len(removed)}"
+    else:
+        message = f"No changes: {len(domains):,} domains"
     log.info(message)
     report_to_github(entry, message, len(domains), len(added), len(removed))
     return 0
