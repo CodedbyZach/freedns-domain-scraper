@@ -4,6 +4,32 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-01 15:24 UTC
+
+20,864 domains (16,426 private, 4,438 public). Added 12, removed 4.
+
+### Added (12)
+
+- 32high.co.uk (private)
+- damon-baker.com (private)
+- diamarket.ro (private)
+- employeevantage.com (private)
+- farmaciaca.com (private)
+- halfbitstudios.com (private)
+- indotos.com (private)
+- kwgranitecountertops.com (private)
+- nel-chonnam.com (private)
+- paperlyteclient.com (private)
+- rublconxray.com (private)
+- trustpty.com (private)
+
+### Removed (4)
+
+- barbon.ca (private)
+- bilanss.com (private)
+- microcontracts.io (private)
+- vividbox.com (private)
+
 ## 2026-11-01 07:48 UTC
 
 No changes (20,856 domains).
