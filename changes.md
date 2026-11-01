@@ -4,6 +4,17 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-01 19:56 UTC
+
+20,860 domains (16,422 private, 4,438 public). Added 0, removed 4.
+
+### Removed (4)
+
+- cronamail.se (private)
+- dingostick.com (private)
+- hournerd.com (private)
+- scaphand.com (private)
+
 ## 2026-11-01 15:24 UTC
 
 20,864 domains (16,426 private, 4,438 public). Added 12, removed 4.
