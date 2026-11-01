@@ -4,6 +4,19 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-01 01:23 UTC
+
+20,856 domains (16,418 private, 4,438 public). Added 0, removed 6.
+
+### Removed (6)
+
+- bellou.net (private)
+- bryantlarsen.com (private)
+- jacob-oben-ohne.de (private)
+- lacustre.cl (public)
+- tait.ar (private)
+- xeus.com.ar (private)
+
 ## 2026-10-31 20:23 UTC
 
 20,862 domains (16,422 private, 4,440 public). Added 0, removed 1.
