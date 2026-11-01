@@ -4,6 +4,18 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-01 22:11 UTC
+
+20,860 domains (16,423 private, 4,437 public). Added 1, removed 1.
+
+### Added (1)
+
+- itbvpn.com (private)
+
+### Removed (1)
+
+- megalogic-phoenix.com (public)
+
 ## 2026-11-01 19:56 UTC
 
 20,860 domains (16,422 private, 4,438 public). Added 0, removed 4.
