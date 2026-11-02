@@ -4,6 +4,21 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-02 20:56 UTC
+
+20,852 domains (16,412 private, 4,440 public). Added 2, removed 3.
+
+### Added (2)
+
+- 24-hourrpo.com (public)
+- masiukiewicz.pl (public)
+
+### Removed (3)
+
+- footlooseandfancyrich.com (private)
+- saucedchicago.com (public)
+- serprise.com (public)
+
 ## 2026-11-02 17:19 UTC
 
 20,853 domains (16,413 private, 4,440 public). Added 1, removed 13.
