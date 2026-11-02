@@ -4,6 +4,30 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-02 17:19 UTC
+
+20,853 domains (16,413 private, 4,440 public). Added 1, removed 13.
+
+### Added (1)
+
+- wawan.web.id (public)
+
+### Removed (13)
+
+- 30624770.tk (private)
+- bandunglife.net (private)
+- byalanet.bg (public)
+- damiensawyer.com (private)
+- hannahbrookeengland.com (private)
+- laserena.com (private)
+- lotka.tk (private)
+- munteanu.ch (private)
+- ratermann.us (private)
+- schunka.tk (private)
+- thecrittac.us (private)
+- tierdesk.com (private)
+- vincerosso.net (private)
+
 ## 2026-11-02 06:30 UTC
 
 20,865 domains (16,425 private, 4,440 public). Added 6, removed 0.
