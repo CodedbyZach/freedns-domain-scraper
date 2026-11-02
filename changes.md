@@ -4,6 +4,19 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-02 06:30 UTC
+
+20,865 domains (16,425 private, 4,440 public). Added 6, removed 0.
+
+### Added (6)
+
+- basem3nt.com (private)
+- edificiolosespinos.cl (private)
+- shekinahphotography.com (public)
+- spottt.com (public)
+- szendebrassai.com (public)
+- xspacemusic.com (public)
+
 ## 2026-11-01 23:48 UTC
 
 20,859 domains (16,423 private, 4,436 public). Added 0, removed 1.
