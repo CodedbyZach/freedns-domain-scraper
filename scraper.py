@@ -5,7 +5,7 @@ FreeDNS shared domain registry scraper.
 Collects every domain listed at https://freedns.afraid.org/domain/registry/
 and writes three files next to this script:
 
-  domains.txt  every domain, one per line, sorted
+  domains.txt  every domain, one per line, sorted A-Z (canal.cl before canal-ltda.cl)
   domains.csv  domain, status, hosts, domain_id, owner, owner_id, created
   changes.md   domains added and removed on each run, newest first
 
@@ -192,6 +192,15 @@ def parse_page(html: str | bytes) -> dict:
     return info
 
 
+def sort_key(domain: str) -> list[str]:
+    """Alphabetical by name, then by the rest of the domain.
+
+    Plain string sorting puts "-" before ".", which lists canal-ltda.cl ahead
+    of canal.cl. Comparing the dot-separated parts puts canal.cl first.
+    """
+    return domain.split(".")
+
+
 def page_count(info: dict, per_page: int) -> int | None:
     if info["total"] is not None and per_page:
         return max(1, math.ceil(info["total"] / per_page))
@@ -344,7 +353,7 @@ def scrape_registry(delay: float = PAGE_DELAY,
             unique: dict[str, dict] = {}
             for row in rows:
                 unique.setdefault(row["domain"], row)
-            domains = sorted(unique.values(), key=lambda row: row["domain"])
+            domains = sorted(unique.values(), key=lambda row: sort_key(row["domain"]))
             if max_pages or not reported or len(domains) >= reported * MIN_COMPLETENESS:
                 return domains, reported
             log.warning("%s URLs only gave %s of %s domains", style,
@@ -358,12 +367,12 @@ def scrape_registry(delay: float = PAGE_DELAY,
 
 # ---------------------------------------------------------------- output
 
-def read_previous(out_dir: Path) -> tuple[set[str] | None, dict[str, str]]:
-    """Domains from the last run (None on the first run) plus their statuses."""
+def read_previous(out_dir: Path) -> tuple[list[str] | None, dict[str, str]]:
+    """Domains from the last run in file order (None on the first run) plus their statuses."""
     txt = out_dir / DOMAINS_TXT
     if not txt.exists():
         return None, {}
-    names = {line.strip() for line in txt.read_text(encoding="utf-8").splitlines() if line.strip()}
+    names = [line.strip() for line in txt.read_text(encoding="utf-8").splitlines() if line.strip()]
     statuses: dict[str, str] = {}
     csv_path = out_dir / DOMAINS_CSV
     if csv_path.exists():
@@ -415,7 +424,7 @@ def build_entry(now: datetime, domains: list[dict], added: set[str], removed: se
         if not names:
             continue
         lines += [f"### {title} ({len(names):,})", ""]
-        for name in sorted(names):
+        for name in sorted(names, key=sort_key):
             status = statuses.get(name)
             lines.append(f"- {name} ({status})" if status else f"- {name}")
         lines.append("")
@@ -480,22 +489,29 @@ def main(argv: list[str] | None = None) -> int:
 
     args.out.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc)
-    current = {row["domain"] for row in domains}
+    order = [row["domain"] for row in domains]
+    current = set(order)
     new_status = {row["domain"]: row["status"] for row in domains}
     first_run = previous is None
-    added = set() if first_run else current - previous
-    removed = set() if first_run else previous - current
+    old = set(previous or ())
+    added = set() if first_run else current - old
+    removed = set() if first_run else old - current
 
     changed = first_run or bool(added or removed)
+    # Same domains as last run but the files are in a different order
+    # (e.g. written before the sort fix): rewrite them in the right order.
+    resort = not changed and previous != order
     if changed:
         entry = build_entry(now, domains, added, removed, new_status, old_status, first_run)
     else:
-        entry = f"## {now:%Y-%m-%d %H:%M} UTC\n\nNo changes ({len(domains):,} domains).\n"
+        note = " Re-sorted the domain files." if resort else ""
+        entry = f"## {now:%Y-%m-%d %H:%M} UTC\n\nNo changes ({len(domains):,} domains).{note}\n"
     # changes.md first and domains.txt last: if a run dies midway, the next run
     # repeats the diff instead of losing it.
     prepend_entry(args.out / CHANGES_MD, entry)
-    if changed:
-        # The domain files are only rewritten when domains were added or removed.
+    if changed or resort:
+        # The domain files are only rewritten when domains were added or removed
+        # (or need re-sorting).
         write_text(args.out / DOMAINS_CSV, csv_text(domains))
         write_text(args.out / DOMAINS_TXT, "".join(row["domain"] + "\n" for row in domains))
 
@@ -503,6 +519,8 @@ def main(argv: list[str] | None = None) -> int:
         message = f"Initial domain snapshot: {len(domains):,} domains"
     elif changed:
         message = f"Update domains: {len(domains):,} total, +{len(added)} -{len(removed)}"
+    elif resort:
+        message = f"No changes: {len(domains):,} domains, re-sorted domain files"
     else:
         message = f"No changes: {len(domains):,} domains"
     log.info(message)
