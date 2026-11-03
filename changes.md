@@ -4,6 +4,29 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-03 21:57 UTC
+
+20,833 domains (16,407 private, 4,426 public). Added 2, removed 11.
+
+### Added (2)
+
+- 20hr53.fr (private)
+- yaishio.com (private)
+
+### Removed (11)
+
+- afinastom.ru (private)
+- barrabarra.com.br (public)
+- budehin.ru (private)
+- ittelecom.pl (private)
+- ma-dang.com (public)
+- mendozaski.com (private)
+- mousematt.net (private)
+- mza.com.ar (public)
+- suaf.com.ve (public)
+- tekshop.ru (private)
+- thefyend.com (public)
+
 ## 2026-11-03 15:24 UTC
 
 20,842 domains (16,411 private, 4,431 public). Added 3, removed 10.

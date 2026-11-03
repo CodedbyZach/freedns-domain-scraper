@@ -88,6 +88,7 @@
 201291.xyz
 2028.cl
 20aniversario.es
+20hr53.fr
 20pack.com
 2100bitcoins.com
 2100coins.com
@@ -566,7 +567,6 @@ affordable-tiling.co.uk
 aficgmb.ro
 afiga.com.mx
 afiliate.pl
-afinastom.ru
 aframalho.com
 afrashteh.com
 africandmore.ch
@@ -1977,7 +1977,6 @@ barola.cl
 barons.co.nz
 barpro.ai
 barpromarketing.com
-barrabarra.com.br
 barrelofmakers.org
 barrientosmartin.es
 barringer.us
@@ -2811,7 +2810,6 @@ budda.lv
 buddercraft.net
 buddhalimbu.com.np
 buddhigrg.com.np
-budehin.ru
 buellhomecoming.com
 buenofood.ro
 buf2.com
@@ -9138,7 +9136,6 @@ itssa.es
 itsupportessentials.com
 itsys-flow.de
 ittechnology.com.mx
-ittelecom.pl
 ittqc.com
 itworldtraders.com.np
 itzox.com
@@ -11093,7 +11090,6 @@ m2o.dj
 m31.net.br
 m3th1dz.com
 m8m.es
-ma-dang.com
 maartenburgers.com
 maasdorp.co.za
 mabest.ch
@@ -11760,7 +11756,6 @@ memoryshow.org
 menaradoa.web.id
 mendit.hr
 mendozafutura.ar
-mendozaski.com
 menichini.com.ar
 menombomb.com
 menorahscrazyblog.com
@@ -12285,7 +12280,6 @@ moure.com.ar
 mouregazet.com.ar
 mouse-hole.com
 mouse-hole.net
-mousematt.net
 moutonfrise.eu
 moveinto.space
 movelbus.com.br
@@ -12591,7 +12585,6 @@ mytinycondo.ca
 myuu.me
 mywanip.ch
 mywombat.com
-mza.com.ar
 mzdy.com
 mzkid.com.br
 mzoppi.com.ar
@@ -17651,7 +17644,6 @@ stvtav.org.ar
 stweber.ch
 styledcomputing.com
 stylz.fr
-suaf.com.ve
 suannadams.com
 suarakeadilan.org
 suarez.ar
@@ -18232,7 +18224,6 @@ tejidosdedignidad.org
 tejidoslikan.cl
 tekbudhathoki.com.np
 tekolste.com
-tekshop.ru
 tekwerks.org
 telatar.com
 telatar.org
@@ -18430,7 +18421,6 @@ thefreis.ch
 thefrickes.net
 thefruitcompany.nl
 thefunhouse.ca
-thefyend.com
 theghouses.com
 thegiblins.com
 thegleasons.com
@@ -20497,6 +20487,7 @@ yael.ch
 yafers.org
 yagyaprasad.com.np
 yahabibi.ro
+yaishio.com
 yakenterprises.com
 yakspravy.com
 yambam.com.np
