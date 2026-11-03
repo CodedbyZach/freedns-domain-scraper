@@ -4,6 +4,29 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-03 15:24 UTC
+
+20,842 domains (16,411 private, 4,431 public). Added 3, removed 10.
+
+### Added (3)
+
+- bepon.cz (private)
+- disvid.ru (private)
+- mycptc.com (private)
+
+### Removed (10)
+
+- bisolta.com (public)
+- cities.org.au (private)
+- darkwolf.ca (public)
+- dx.com.ar (public)
+- lysterfieldsailing.com.au (private)
+- mssfabrication.com.au (private)
+- portek.net.au (public)
+- skope.au (private)
+- twostoreyhome.com.au (private)
+- yaishio.com (private)
+
 ## 2026-11-03 07:05 UTC
 
 20,849 domains (16,413 private, 4,436 public). Added 1, removed 4.
