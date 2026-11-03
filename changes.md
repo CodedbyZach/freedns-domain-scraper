@@ -4,6 +4,20 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-03 00:02 UTC
+
+20,852 domains (16,413 private, 4,439 public). Added 2, removed 2.
+
+### Added (2)
+
+- probac.cl (public)
+- web-diot.fr (private)
+
+### Removed (2)
+
+- lospenitentes.com (public)
+- rachelsfinds.com (public)
+
 ## 2026-11-02 20:56 UTC
 
 20,852 domains (16,412 private, 4,440 public). Added 2, removed 3.
