@@ -4,6 +4,21 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-03 07:05 UTC
+
+20,849 domains (16,413 private, 4,436 public). Added 1, removed 4.
+
+### Added (1)
+
+- falkonet.co.id (private)
+
+### Removed (4)
+
+- belyfit.cl (public)
+- cmr.com.ar (public)
+- jumao.com.ar (private)
+- raporlar.com (public)
+
 ## 2026-11-03 00:02 UTC
 
 20,852 domains (16,413 private, 4,439 public). Added 2, removed 2.
