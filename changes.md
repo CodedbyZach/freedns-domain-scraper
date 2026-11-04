@@ -4,6 +4,33 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-04 18:49 UTC
+
+20,827 domains (16,405 private, 4,422 public). Added 8, removed 9.
+
+### Added (8)
+
+- benicass.im (public)
+- bijayakilla.com (public)
+- bitead.com (public)
+- djnbh.com (private)
+- embiodea.com (private)
+- hamrodolakha.com (public)
+- raidthe.net (public)
+- tataskue.ru (private)
+
+### Removed (9)
+
+- ar50n15t.com (private)
+- bot.nu (public)
+- crockettcia.org (private)
+- demonsdxers.es (private)
+- ftpcloud.es (private)
+- ha-cloud.es (private)
+- rebekahandjeremy.com (private)
+- tratolibre.es (private)
+- tvr.com.ar (public)
+
 ## 2026-11-04 02:32 UTC
 
 20,828 domains (16,408 private, 4,420 public). Added 1, removed 6.
