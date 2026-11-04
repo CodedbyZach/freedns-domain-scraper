@@ -4,6 +4,23 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-04 02:32 UTC
+
+20,828 domains (16,408 private, 4,420 public). Added 1, removed 6.
+
+### Added (1)
+
+- jameslogan.ca (private)
+
+### Removed (6)
+
+- bob.com.ar (public)
+- mapasynegocios.cl (public)
+- pirazymatma.pl (public)
+- sorbonne-alumni.org (public)
+- suarakeadilan.org (public)
+- yayasanyaphi.org (public)
+
 ## 2026-11-03 21:57 UTC
 
 20,833 domains (16,407 private, 4,426 public). Added 2, removed 11.

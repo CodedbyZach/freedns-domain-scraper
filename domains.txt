@@ -2509,7 +2509,6 @@ bnvbucsa.ro
 bo-kite.com
 board-management.se
 boardroomprophets.com
-bob.com.ar
 boba.org
 bobinakit.com
 boblove.org
@@ -9232,6 +9231,7 @@ jamesbark.net
 jamescourttownhomes.com
 jamesguerra.us
 jamesivan.com
+jameslogan.ca
 jamesplato.com
 jamespwalker.com
 jamestasker.co.uk
@@ -11298,7 +11298,6 @@ manywaystodie.de
 map-administracion.com.ar
 mapadelapolicia.com
 mapadeloscomedores.com
-mapasynegocios.cl
 mappuchan.com
 mapster.com.mx
 mar-b-poodles.com
@@ -14236,7 +14235,6 @@ pippard.ca
 pir8.im
 piragis.net
 piratewan.com
-pirazymatma.pl
 pirraglia.com.ar
 pisi.cat
 piskuno.com
@@ -17195,7 +17193,6 @@ sophiemaslowski.com
 sophosindiaddclient.org
 soportemdq.com.ar
 sorbalok.com
-sorbonne-alumni.org
 sorger.info
 sorinastoica.ro
 sorjak.com
@@ -17645,7 +17642,6 @@ stweber.ch
 styledcomputing.com
 stylz.fr
 suannadams.com
-suarakeadilan.org
 suarez.ar
 suban.cl
 subaru-community.ch
@@ -20514,7 +20510,6 @@ yatmoo.com
 yatuglobal.cn
 yavner.ca
 yaw.at
-yayasanyaphi.org
 yayati.com
 yb99.tv
 ybn.org.np
