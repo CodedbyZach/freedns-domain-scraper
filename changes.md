@@ -4,6 +4,28 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-05 22:50 UTC
+
+20,810 domains (16,398 private, 4,412 public). Added 2, removed 10.
+
+### Added (2)
+
+- embeddedge.com (private)
+- kmftresa.com (private)
+
+### Removed (10)
+
+- abogadospalavicino.cl (public)
+- austechxpert.com.au (private)
+- bsfa.info (public)
+- colgram.cl (public)
+- crawfishlagniape.com (private)
+- goit.au (public)
+- infoaraucania.cl (public)
+- kbmax.sg (public)
+- stintegrales.cl (public)
+- ud.com.ar (public)
+
 ## 2026-11-05 16:40 UTC
 
 20,818 domains (16,398 private, 4,420 public). Added 2, removed 4.
