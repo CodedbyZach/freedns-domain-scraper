@@ -4,6 +4,39 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-05 00:32 UTC
+
+20,816 domains (16,399 private, 4,417 public). Added 6, removed 17.
+
+### Added (6)
+
+- bot.nu (public)
+- impactephemere.com (private)
+- la-route-du-quebec.com (private)
+- malenkiy-karavan.ru (private)
+- shiftmath.org (private)
+- smith-point.com (private)
+
+### Removed (17)
+
+- allenbukoff.com (private)
+- autothink.org (private)
+- bookofdread.com (private)
+- campfluxus.org (private)
+- coonrapidsgolfswing.com (private)
+- fluxfest.org (private)
+- fluxus.org (public)
+- forkfront.com (public)
+- frostcatcher.com (public)
+- mutluay.com (public)
+- nutscape.com (private)
+- pinpunk.com (private)
+- probac.cl (public)
+- saintsparky.org (public)
+- workingcreativity.com (private)
+- worldperfect.org (private)
+- xxx.co.nl (private)
+
 ## 2026-11-04 18:49 UTC
 
 20,827 domains (16,405 private, 4,422 public). Added 8, removed 9.
