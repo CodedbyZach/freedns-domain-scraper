@@ -4,6 +4,22 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-05 16:40 UTC
+
+20,818 domains (16,398 private, 4,420 public). Added 2, removed 4.
+
+### Added (2)
+
+- gestioncomercio.com.ar (private)
+- rootnroll.ar (private)
+
+### Removed (4)
+
+- clipfaktory.com (public)
+- gettysburgmath.org (private)
+- jimicat.com (private)
+- wakeboard.com.ar (private)
+
 ## 2026-11-05 08:05 UTC
 
 20,820 domains (16,400 private, 4,420 public). Added 6, removed 2.
