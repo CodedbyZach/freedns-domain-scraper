@@ -4,6 +4,24 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-05 08:05 UTC
+
+20,820 domains (16,400 private, 4,420 public). Added 6, removed 2.
+
+### Added (6)
+
+- abhimanyu.com.np (public)
+- abhimanyuk.com.np (public)
+- ankeshgorkhali.com.np (public)
+- ashishlama.com.np (public)
+- basnetpoojan.com.np (public)
+- wiesner.us (private)
+
+### Removed (2)
+
+- losmolles.com.ar (public)
+- santacruz.com.ar (public)
+
 ## 2026-11-05 00:32 UTC
 
 20,816 domains (16,399 private, 4,417 public). Added 6, removed 17.
