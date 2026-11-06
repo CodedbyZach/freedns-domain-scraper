@@ -4,6 +4,29 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-06 19:38 UTC
+
+20,802 domains (16,394 private, 4,408 public). Added 6, removed 7.
+
+### Added (6)
+
+- digitalchamber.co.za (private)
+- jezercic.com (private)
+- rwxrwxrwx.com (private)
+- s-forum.ru (private)
+- totallynotx.com (public)
+- westlien.com (private)
+
+### Removed (7)
+
+- euleio.com.br (public)
+- mediageniuses.com (private)
+- pmilbd.com (private)
+- projectos3d.com (private)
+- robert-schulze.com (private)
+- rwaitkus.com (private)
+- waterloomath.com (private)
+
 ## 2026-11-06 12:21 UTC
 
 20,803 domains (16,395 private, 4,408 public). Added 2, removed 8.
