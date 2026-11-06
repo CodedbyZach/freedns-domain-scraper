@@ -4,6 +4,14 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-06 03:35 UTC
+
+20,809 domains (16,398 private, 4,411 public). Added 0, removed 1.
+
+### Removed (1)
+
+- vvvrm.net (public)
+
 ## 2026-11-05 22:50 UTC
 
 20,810 domains (16,398 private, 4,412 public). Added 2, removed 10.
