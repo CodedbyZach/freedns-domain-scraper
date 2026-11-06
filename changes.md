@@ -4,6 +4,26 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-06 12:21 UTC
+
+20,803 domains (16,395 private, 4,408 public). Added 2, removed 8.
+
+### Added (2)
+
+- maklerhub.ru (private)
+- vvvrm.net (public)
+
+### Removed (8)
+
+- arzumanyan.ru (public)
+- bsas.com.ar (public)
+- fkngfk.com (public)
+- fredymargairaz.ch (public)
+- hingsenlokal.de (private)
+- rig.hr (private)
+- robert-schulze.de (private)
+- shamam.net (private)
+
 ## 2026-11-06 03:35 UTC
 
 20,809 domains (16,398 private, 4,411 public). Added 0, removed 1.
