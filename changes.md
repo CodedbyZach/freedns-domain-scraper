@@ -4,6 +4,19 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-07 18:13 UTC
+
+20,803 domains (16,394 private, 4,409 public). Added 1, removed 2.
+
+### Added (1)
+
+- accesoriosmichelle.com (private)
+
+### Removed (2)
+
+- lauraradu.ro (private)
+- scuaagz.com (public)
+
 ## 2026-11-07 13:23 UTC
 
 20,804 domains (16,394 private, 4,410 public). Added 3, removed 5.
