@@ -4,6 +4,24 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-07 13:23 UTC
+
+20,804 domains (16,394 private, 4,410 public). Added 3, removed 5.
+
+### Added (3)
+
+- automoto-sr.ch (private)
+- maasrazinternational.com (private)
+- nexvoltepcbd.com (private)
+
+### Removed (5)
+
+- 404.mn (public)
+- katusak.com (private)
+- luxflow.net (private)
+- robertschulze.org (private)
+- youngyik.com (private)
+
 ## 2026-11-07 06:18 UTC
 
 20,806 domains (16,395 private, 4,411 public). Added 1, removed 0.
