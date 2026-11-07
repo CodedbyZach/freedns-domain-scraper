@@ -4,6 +4,14 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-07 06:18 UTC
+
+20,806 domains (16,395 private, 4,411 public). Added 1, removed 0.
+
+### Added (1)
+
+- daslabor.cl (private)
+
 ## 2026-11-07 00:16 UTC
 
 20,805 domains (16,393 private, 4,412 public). Added 5, removed 2.
