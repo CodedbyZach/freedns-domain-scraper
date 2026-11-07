@@ -4,6 +4,19 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-07 22:06 UTC
+
+20,804 domains (16,393 private, 4,411 public). Added 2, removed 1.
+
+### Added (2)
+
+- bisolta.com (public)
+- edehost.com (public)
+
+### Removed (1)
+
+- giantrobothead.net (private)
+
 ## 2026-11-07 18:13 UTC
 
 20,803 domains (16,394 private, 4,409 public). Added 1, removed 2.
