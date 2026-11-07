@@ -4,6 +4,23 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-07 00:16 UTC
+
+20,805 domains (16,393 private, 4,412 public). Added 5, removed 2.
+
+### Added (5)
+
+- ctasociados.cl (public)
+- duwadikrishna.com.np (public)
+- embavenez-siria.com.ve (public)
+- excelsiormulticoncern.com.np (public)
+- gitadhakal.com.np (public)
+
+### Removed (2)
+
+- esquel.com.ar (public)
+- juegosenlondres2012.com (private)
+
 ## 2026-11-06 19:38 UTC
 
 20,802 domains (16,394 private, 4,408 public). Added 6, removed 7.
