@@ -4,6 +4,21 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-08 16:10 UTC
+
+20,806 domains (16,392 private, 4,414 public). Added 1, removed 4.
+
+### Added (1)
+
+- retardedpornstar.com (private)
+
+### Removed (4)
+
+- aeycia.cl (public)
+- bionet.tw (private)
+- castlegrayskull.us (private)
+- phantomlancer.xyz (private)
+
 ## 2026-11-08 09:15 UTC
 
 20,809 domains (16,394 private, 4,415 public). Added 13, removed 8.
