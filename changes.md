@@ -4,6 +4,20 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-08 20:41 UTC
+
+20,804 domains (16,390 private, 4,414 public). Added 1, removed 3.
+
+### Added (1)
+
+- corestack.vc (public)
+
+### Removed (3)
+
+- greenbaynz.com (private)
+- nmeclan.net (public)
+- pintea.ro (private)
+
 ## 2026-11-08 16:10 UTC
 
 20,806 domains (16,392 private, 4,414 public). Added 1, removed 4.
