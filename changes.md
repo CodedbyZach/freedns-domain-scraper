@@ -4,6 +4,10 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-08 01:37 UTC
+
+No changes (20,804 domains).
+
 ## 2026-11-07 22:06 UTC
 
 20,804 domains (16,393 private, 4,411 public). Added 2, removed 1.
