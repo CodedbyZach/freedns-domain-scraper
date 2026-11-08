@@ -4,6 +4,37 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-08 09:15 UTC
+
+20,809 domains (16,394 private, 4,415 public). Added 13, removed 8.
+
+### Added (13)
+
+- bryak.me (public)
+- compy.ca (public)
+- ferreindustrialtocome.com.ve (private)
+- goodfox.com.br (private)
+- impresora.com.ve (public)
+- kdxcode.eu (private)
+- mendozabolioyasociados.com.mx (public)
+- mojoteeth.ca (public)
+- mutluay.com (public)
+- radarvision.co.za (public)
+- raporlar.com (public)
+- tyday.co.za (public)
+- valheim.co.za (public)
+
+### Removed (8)
+
+- billybarnes.org (private)
+- craigsho.me (public)
+- euro-line.hu (public)
+- infoeasyonline.com.br (public)
+- mattstewart.name (private)
+- pimp.co.za (public)
+- solo-yoga.com.ar (public)
+- terra.me.uk (public)
+
 ## 2026-11-08 01:37 UTC
 
 No changes (20,804 domains).
