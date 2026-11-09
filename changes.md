@@ -4,6 +4,26 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-09 19:02 UTC
+
+20,803 domains (16,391 private, 4,412 public). Added 5, removed 5.
+
+### Added (5)
+
+- bsfa.info (public)
+- exotrade.com.ar (private)
+- pozilei.ch (public)
+- sebalabs.cl (private)
+- xdapierdolnik.pl (private)
+
+### Removed (5)
+
+- driftya.com (private)
+- frrm.de (private)
+- navatandham.org.np (public)
+- tryzub-it.co.uk (public)
+- vanguardreins.com (private)
+
 ## 2026-11-09 08:13 UTC
 
 20,803 domains (16,391 private, 4,412 public). Added 2, removed 2.
