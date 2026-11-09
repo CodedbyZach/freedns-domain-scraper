@@ -4,6 +4,20 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-09 08:13 UTC
+
+20,803 domains (16,391 private, 4,412 public). Added 2, removed 2.
+
+### Added (2)
+
+- lilylocpa.ca (private)
+- liucco.fi (private)
+
+### Removed (2)
+
+- brentgeery.com (private)
+- loszand.com (private)
+
 ## 2026-11-09 01:07 UTC
 
 20,803 domains (16,390 private, 4,413 public). Added 1, removed 2.
