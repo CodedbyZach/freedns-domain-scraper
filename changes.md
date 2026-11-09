@@ -4,6 +4,19 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-09 01:07 UTC
+
+20,803 domains (16,390 private, 4,413 public). Added 1, removed 2.
+
+### Added (1)
+
+- public-wifi.net (private)
+
+### Removed (2)
+
+- austechxpert.com (private)
+- yesmagazine.com.np (public)
+
 ## 2026-11-08 20:41 UTC
 
 20,804 domains (16,390 private, 4,414 public). Added 1, removed 3.
