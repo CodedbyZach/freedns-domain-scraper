@@ -4,6 +4,35 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-10 18:04 UTC
+
+20,782 domains (16,368 private, 4,414 public). Added 6, removed 13.
+
+### Added (6)
+
+- climaref.cl (public)
+- jaherin.com (private)
+- lyhyt.eu (private)
+- reindeercms.eu (private)
+- sokajsok.pl (private)
+- vg-2.com (private)
+
+### Removed (13)
+
+- bozzograo.org (private)
+- cygbornetwork.cl (private)
+- mathewparkin.com (private)
+- mazaocoop.org (private)
+- meow.lat (public)
+- opeynet.org (private)
+- peterjamesalbert.us (private)
+- prmerp.ru (private)
+- scyo.org.au (private)
+- smsokweb.com (private)
+- tankclean.ro (private)
+- xn--jhb0q.my (private)
+- xn--mgbj.my (private)
+
 ## 2026-11-10 10:10 UTC
 
 20,789 domains (16,375 private, 4,414 public). Added 1, removed 7.
