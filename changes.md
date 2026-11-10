@@ -4,6 +4,24 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-10 10:10 UTC
+
+20,789 domains (16,375 private, 4,414 public). Added 1, removed 7.
+
+### Added (1)
+
+- elysiumkinetiq.com (private)
+
+### Removed (7)
+
+- donateyourboat.us (private)
+- jaherin.com (private)
+- robertschulze.name (private)
+- robertschulze.net (private)
+- sokajsok.pl (private)
+- tallison.com (public)
+- vendetta.ch (private)
+
 ## 2026-11-10 02:22 UTC
 
 20,795 domains (16,380 private, 4,415 public). Added 6, removed 14.
