@@ -4,6 +4,23 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-10 23:37 UTC
+
+20,785 domains (16,372 private, 4,413 public). Added 5, removed 2.
+
+### Added (5)
+
+- amlu.cl (private)
+- elysiumeco.net (private)
+- hoedsch.de (private)
+- mlr.ar (private)
+- tankclean.ro (private)
+
+### Removed (2)
+
+- hengyi-inc.com (private)
+- theelderscrollsonlinepowerguide.com (private)
+
 ## 2026-11-10 18:04 UTC
 
 20,782 domains (16,368 private, 4,414 public). Added 6, removed 13.
