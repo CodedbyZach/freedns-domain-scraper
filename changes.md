@@ -4,6 +4,36 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-10 02:22 UTC
+
+20,795 domains (16,380 private, 4,415 public). Added 6, removed 14.
+
+### Added (6)
+
+- diffusethe.net (public)
+- jaherin.com (private)
+- ourdvd.net (public)
+- t411.me (public)
+- torrentz.sx (public)
+- vanguardreins.com (private)
+
+### Removed (14)
+
+- ander.ro (private)
+- comonsa.ec (public)
+- dorumihai.ro (private)
+- eemc.ro (private)
+- hotelvalahia.ro (private)
+- indiepoplist.com (private)
+- motoromania.ro (private)
+- motoservice.ro (private)
+- plescan.ro (private)
+- prosysaudit.ro (private)
+- simbya.ar (private)
+- tsk.ro (private)
+- vanzarimoto.ro (private)
+- wbgamsel.ch (private)
+
 ## 2026-11-09 19:02 UTC
 
 20,803 domains (16,391 private, 4,412 public). Added 5, removed 5.
