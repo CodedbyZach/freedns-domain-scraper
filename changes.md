@@ -4,6 +4,35 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-11 15:30 UTC
+
+20,786 domains (16,369 private, 4,417 public). Added 8, removed 11.
+
+### Added (8)
+
+- aero-xyz.com (private)
+- dkewat.com.np (public)
+- dnda.com.np (public)
+- estavan.pl (private)
+- montraxyz.com (private)
+- navatandham.org.np (public)
+- primuslabsxyz.com (private)
+- volera.cc (public)
+
+### Removed (11)
+
+- ctm.com.ar (public)
+- elysiumeco.net (private)
+- elysiumkinetiq.com (private)
+- joussy.fr (private)
+- kchcs.org (private)
+- khelsa.org (private)
+- vanomania.net (public)
+- vaporsnail.com (private)
+- vaqueras.com (private)
+- varegos.ar (private)
+- varmapoka.fi (private)
+
 ## 2026-11-11 06:49 UTC
 
 20,789 domains (16,374 private, 4,415 public). Added 4, removed 0.
