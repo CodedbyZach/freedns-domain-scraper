@@ -4,6 +4,39 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-11 22:54 UTC
+
+20,789 domains (16,369 private, 4,420 public). Added 13, removed 10.
+
+### Added (13)
+
+- 001-lab.space (public)
+- 404.mn (public)
+- akustica.cl (public)
+- basualdo.cl (public)
+- bxgfxsh.cl (private)
+- kazblogdemo.space (public)
+- nlsn.cc (public)
+- openbrainstorm.com (private)
+- vanomania.net (public)
+- vaporsnail.com (private)
+- vaqueras.com (private)
+- varegos.ar (private)
+- varmapoka.fi (private)
+
+### Removed (10)
+
+- brycewfrazier.com (private)
+- cubicle51.com (public)
+- mattison.xyz (public)
+- metricipedia.com (private)
+- patrickyeager.com (public)
+- pdacorp.ru (private)
+- renacapark.com (private)
+- stonehold.se (private)
+- surcoysemilla.cl (private)
+- visitame.cl (private)
+
 ## 2026-11-11 15:30 UTC
 
 20,786 domains (16,369 private, 4,417 public). Added 8, removed 11.
