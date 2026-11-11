@@ -4,6 +4,17 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-11 06:49 UTC
+
+20,789 domains (16,374 private, 4,415 public). Added 4, removed 0.
+
+### Added (4)
+
+- brg2.xyz (public)
+- majix.xyz (private)
+- mdanyel.xyz (public)
+- w9rix.com (private)
+
 ## 2026-11-10 23:37 UTC
 
 20,785 domains (16,372 private, 4,413 public). Added 5, removed 2.
