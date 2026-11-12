@@ -4,6 +4,31 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-12 21:02 UTC
+
+20,767 domains (16,351 private, 4,416 public). Added 1, removed 14.
+
+### Added (1)
+
+- procrastin.ar (public)
+
+### Removed (14)
+
+- chacman.ar (private)
+- delgremio.com.ar (public)
+- imskynox.ca (private)
+- murattasci.com (private)
+- naveyra.ar (private)
+- nidoriasvr.com (private)
+- psy.cl (private)
+- rillon-leaplaza.cl (public)
+- rollerhockey.ar (private)
+- rossetto.ar (private)
+- rossetto.com.ar (private)
+- sierra-leona.com.ar (private)
+- sierraleona.com.ar (private)
+- symtek.cl (private)
+
 ## 2026-11-12 13:01 UTC
 
 20,780 domains (16,363 private, 4,417 public). Added 0, removed 8.
