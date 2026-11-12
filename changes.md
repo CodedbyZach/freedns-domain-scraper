@@ -4,6 +4,21 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-12 04:01 UTC
+
+20,788 domains (16,369 private, 4,419 public). Added 2, removed 3.
+
+### Added (2)
+
+- mattstewart.name (private)
+- metricipedia.com (private)
+
+### Removed (3)
+
+- dairymountain.ca (public)
+- panoleader.com (private)
+- xkazox.pl (private)
+
 ## 2026-11-11 22:54 UTC
 
 20,789 domains (16,369 private, 4,420 public). Added 13, removed 10.
