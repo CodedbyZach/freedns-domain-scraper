@@ -4,6 +4,21 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-12 13:01 UTC
+
+20,780 domains (16,363 private, 4,417 public). Added 0, removed 8.
+
+### Removed (8)
+
+- expedicionesytrekking.com (public)
+- plan-ted.com (private)
+- qlabs.pro (public)
+- quuqle.com (private)
+- rread.co.uk (private)
+- skope.net.au (public)
+- sovan.ro (private)
+- sykero.com (private)
+
 ## 2026-11-12 04:01 UTC
 
 20,788 domains (16,369 private, 4,419 public). Added 2, removed 3.
