@@ -4,6 +4,15 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-13 09:48 UTC
+
+20,765 domains (16,349 private, 4,416 public). Added 0, removed 2.
+
+### Removed (2)
+
+- nas.im (private)
+- pjfox.xyz (private)
+
 ## 2026-11-13 02:02 UTC
 
 20,767 domains (16,350 private, 4,417 public). Added 1, removed 1.
