@@ -163,7 +163,6 @@
 3bearconsulting.com
 3c-cloud.org
 3cm.us
-3cnet.tw
 3comet.com
 3comet.net
 3cx-systems.co.uk
@@ -776,7 +775,6 @@ aldeadesigns.com
 aldezabal.com.ar
 aldis.id.lv
 alearroyo.com
-alecsandro.com
 alejolp.com.ar
 alephnullresearch.com
 alerteqa.com
@@ -967,6 +965,7 @@ ambitech.rs
 ame-life.com
 amen.org.ar
 amenabar.cl
+amener.gy
 amentrix.co.uk
 amentrix.com
 amfid.ch
@@ -1442,7 +1441,6 @@ aryanpoudel.com.np
 arybarbosa.com
 arzamascev.ru
 as47671.net
-asadana.co.id
 asax.ch
 asbestnet.ru
 asc.ru
@@ -2267,7 +2265,6 @@ bignas.ca
 bignet.ro
 bigot.ca
 bigredindians.com
-bigrocktechnologies.com
 bigsoda.net
 bigtpro.ch
 bigtwo.hk
@@ -3675,7 +3672,6 @@ clocking.ro
 clockler.com
 clockworkheads.ru
 cloe.cl
-cloe-jade.org
 closewithamanda.com
 clothbag.in
 cloud-one.ca
@@ -3904,7 +3900,6 @@ compuinter.com
 compuserv.inf.br
 compuspire.it
 computerchaotix.com
-computerdreams.es
 computerninja.net
 computersforpeace.net
 computersrfun.org
@@ -4327,7 +4322,6 @@ cwbase.com
 cwbots.com
 cwcm.net
 cwf1.com
-cwke.org
 cwna.cn
 cwqso.net
 cybdyn.com
@@ -5882,7 +5876,6 @@ enlis.sk
 enma.ee
 enmar.cl
 enminas.com
-enmotoneta.com
 ennea.cl
 enoesis.com
 enotario.cl
@@ -7315,7 +7308,6 @@ gleason.org
 glej.name
 glenalmond.com.au
 glenbrookcommunityeruv.org
-glenbrookmikvah.org
 glengall.com
 glenjohn.com
 glenmoreellison.com
@@ -10095,7 +10087,6 @@ komor.bid
 kompaniet.nu
 kompile.net
 kompostiranjecloveskegagnoja.com
-komshilook.net
 koncan.org
 kondalex.net
 kongting.net
@@ -10288,7 +10279,6 @@ kwickservers.com
 kwitek.eu
 kwitek.net
 kwitek.org
-kwollaston.com
 kwozniak.com
 kylecline.net
 kyleconstance.com
@@ -11006,7 +10996,6 @@ lumbinifashion.com.np
 lumbinisuppliers.com.np
 lumeacopiilorploiesti.ro
 lumininunta.ro
-lumiwow.su
 lun.id.lv
 lunaazul-farms.com
 lunaliu.com
@@ -11327,6 +11316,7 @@ margarethenhof.net
 margavia.cl
 marginaltax.com
 margon.fi
+margutm.su
 mariaalexe.ro
 mariajael.com.ar
 mariamisterios.cl
@@ -12866,7 +12856,6 @@ nexiapy.com
 nextco.ru
 nextcomm.com.ar
 nextdimension4.us
-nextlevelcode.com
 nextmercury.com
 nextnetworks.com.ar
 nexum.se
@@ -14344,7 +14333,6 @@ polden21.ru
 polden21vek.com
 polden21vek.ru
 polezen.bg
-poli-toonnation.com
 polidom.cl
 polimetalruedas.com.ar
 polimont.com.br
@@ -15435,7 +15423,6 @@ riihielokuva.fi
 rijalbinaya.com.np
 rijalsundar.com.np
 rijitashrestha.com.np
-rilbaum.com
 rilbaum.ee
 rilbaum.eu
 rileal.cl
@@ -18475,12 +18462,10 @@ thetideys.com
 thetrist.com
 thetubes.net
 theunissen.nom.za
-theunknownbit.com
 theunpackingitpodcast.com
 thevarietyplace.com
 thevaughnhome.com
 theveranda.co.id
-theveranda.id
 theverandaresidence.co.id
 theverandaresidence.id
 thevictoryseed.org
@@ -19381,7 +19366,6 @@ varshets.org
 varunmangla.com
 vasarasfestivals.lv
 vasuarte.net
-vasyanproject21.pro
 vaultnoir.com
 vawars.com
 vba.ninja
@@ -19917,7 +19901,6 @@ webs.vc
 webshite.com
 webthing.com.ar
 webttt.ru
-webwise.pt
 webya.cl
 wechchile.cl
 wedally.com
@@ -20481,7 +20464,6 @@ yimelo.com.au
 yingsane.com
 yixianhui.net
 ylinku.com
-yme.pt
 ymmv.info
 yo3bn.ro
 yo8tff.ro

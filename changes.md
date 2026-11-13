@@ -4,6 +4,38 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-13 17:58 UTC
+
+20,747 domains (16,332 private, 4,415 public). Added 2, removed 20.
+
+### Added (2)
+
+- amener.gy (private)
+- margutm.su (public)
+
+### Removed (20)
+
+- 3cnet.tw (private)
+- alecsandro.com (private)
+- asadana.co.id (private)
+- bigrocktechnologies.com (private)
+- cloe-jade.org (private)
+- computerdreams.es (private)
+- cwke.org (private)
+- enmotoneta.com (private)
+- glenbrookmikvah.org (private)
+- komshilook.net (private)
+- kwollaston.com (private)
+- lumiwow.su (public)
+- nextlevelcode.com (private)
+- poli-toonnation.com (private)
+- rilbaum.com (private)
+- theunknownbit.com (private)
+- theveranda.id (private)
+- vasyanproject21.pro (public)
+- webwise.pt (private)
+- yme.pt (private)
+
 ## 2026-11-13 09:48 UTC
 
 20,765 domains (16,349 private, 4,416 public). Added 0, removed 2.
