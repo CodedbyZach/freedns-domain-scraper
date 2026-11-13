@@ -4,6 +4,18 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-13 02:02 UTC
+
+20,767 domains (16,350 private, 4,417 public). Added 1, removed 1.
+
+### Added (1)
+
+- gta.cx (public)
+
+### Removed (1)
+
+- barbedwiretightrope.com (private)
+
 ## 2026-11-12 21:02 UTC
 
 20,767 domains (16,351 private, 4,416 public). Added 1, removed 14.

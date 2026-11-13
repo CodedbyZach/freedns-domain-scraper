@@ -1950,7 +1950,6 @@ baranska.info
 baranyos.hu
 barbaramatejcic.com
 barbayani.com.ar
-barbedwiretightrope.com
 barbmorrison.com
 barcanquimicasrl.com.ar
 barcelo.com.br
@@ -7684,6 +7683,7 @@ gsoncologicsibiu.ro
 gspshipyard.ro
 gsxpress.com.my
 gt80.com
+gta.cx
 gtalarm.com.ve
 gtarp.hu
 gtaspa.cl
