@@ -4,6 +4,57 @@ Domains added to or removed from the [FreeDNS shared registry](https://freedns.a
 
 <!-- entries -->
 
+## 2026-11-13 23:47 UTC
+
+20,766 domains (16,341 private, 4,425 public). Added 30, removed 11.
+
+### Added (30)
+
+- 1projekts.lv (private)
+- apartamentbailefelix.ro (private)
+- bijayrimal234.com.np (public)
+- bosqueurbano.ar (public)
+- continuo.co.nz (private)
+- ezh.be (private)
+- fernhamconsulting.com (private)
+- harej.si (public)
+- iennelopez.net (private)
+- imhotep-online.de (private)
+- jullianapaulino.com.br (private)
+- macleod.nom.za (private)
+- meteos.pw (private)
+- milandarai.com.np (public)
+- nikeinvest.ro (public)
+- padc.pt (public)
+- pinkvibrations.com (private)
+- pradeepsapkota.com.np (public)
+- rexometer.de (private)
+- ribanc.org (private)
+- ryanamyko.nom.za (private)
+- sagark.com.np (public)
+- sagesinst.org (private)
+- sancharkendra.com.np (public)
+- seoi.com.my (private)
+- smacku.de (private)
+- som.lv (private)
+- suryadeep.com.np (public)
+- taekkyeonbunny.com (private)
+- uhaneingenieria.mx (public)
+
+### Removed (11)
+
+- aconcagua.ar (private)
+- brsrv.ru (private)
+- falkharnisch.de (private)
+- hotboobjobs.com (private)
+- kryptonic.xyz (private)
+- pandanet.moe (private)
+- pasadin.su (private)
+- r-cube.ch (private)
+- tammygoldenberg.co.za (private)
+- turbominivan.net (private)
+- wabiclub.com (private)
+
 ## 2026-11-13 17:58 UTC
 
 20,747 domains (16,332 private, 4,415 public). Added 2, removed 20.
